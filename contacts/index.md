@@ -6,6 +6,4 @@ body_id: contacts
 
 #Contacts
 
-none
-
-:smiley
+{% include contacts.html %}

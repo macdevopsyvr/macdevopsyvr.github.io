@@ -9,6 +9,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.macdevops.ca" # the base hostname & protocol for your site
 twitter_username: "@MacDevOpsYVR"
 github_username:  dayglojesus
+submissions_deadline: "March 31, 2015"
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji

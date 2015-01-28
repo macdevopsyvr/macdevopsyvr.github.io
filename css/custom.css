@@ -74,3 +74,10 @@ footer {
   padding-top: 15px;
   padding-bottom: 20px;
 }
+
+#photo-credit {
+  font-size: 10px;
+  float: right;
+  margin-top: -30px;
+  padding-left: 5px;
+}

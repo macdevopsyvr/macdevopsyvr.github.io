@@ -15,7 +15,7 @@ MacDevOpsYVR is seeking presenters from across the Pacific Northwest and beyond 
 If you have an idea for a specific talk, workshop or panel related to deploying Macs in enterprise, corporate or educational environments, we want to hear from you.
 <br>
 
-####[> SUBMIT A PROPOSAL <](emailto:{{ site.email }})
+####[> SUBMIT A PROPOSAL <](mailto:{{ site.email }})
 <br>
 
 #### Deadline for Submissions: March 31, 2015.
