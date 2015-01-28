@@ -7,4 +7,16 @@ $(function(){
   $("#activities a:contains('Activities')").parent().addClass('active');
   $("#contacts   a:contains('Contacts')").parent().addClass('active');
 
+  function initialize() {
+    var mapCanvas = document.getElementById('map-canvas');
+    var mapOptions = {
+      center: new google.maps.LatLng(49.284756,-123.111872),
+      zoom: 16,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+    var map = new google.maps.Map(mapCanvas, mapOptions);
+  }
+
+  google.maps.event.addDomListener(window, 'load', initialize);
+
 });
