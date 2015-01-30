@@ -8,7 +8,7 @@ body_id: speakers
 
 <p class="lead">
 
-Speakers from the the throughout the Pacific Northwest will be presenting on a number of topics related to Mac administration and deployment.
+Speakers from the throughout the Pacific Northwest will be presenting on a number of topics related to Mac administration and deployment.
 
 </p>
 
