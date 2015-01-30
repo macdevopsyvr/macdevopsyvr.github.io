@@ -14,7 +14,7 @@ Organizers are planning some excellent and unique Vancouver outings for particip
 
 <p class="lead">
 
-If you have any suggestions or a wish list of sites to see while you're here, let us know!
+If you have any suggestions or a wish list of sights to see while you're here, let us know!
 
 </p>
 
