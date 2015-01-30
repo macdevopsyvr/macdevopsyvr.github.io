@@ -8,7 +8,7 @@ body_id: workshops
 
 <p class="lead">
 
-Hands-on workshops on OS X packaging, deployment and automation tools and more!
+Hands-on workshops on OS X packaging, deployment, automation tools and more!
 
 </p>
 
