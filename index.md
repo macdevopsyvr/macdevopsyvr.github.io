@@ -25,8 +25,9 @@ Share your experience and join your peers at this one day, all day conference in
 #### Topics of Interest:
 
 * Puppet, Chef and other automation from Desktop to Cloud and back
-* Software deployment with Munki and the app ecosystem surrounding it
-* Cool tools: demo an awesome Mac IT projects from GitHub
+* Software deployment with Munki and AutoPkg: the app ecosystem surrounding it
+* Cool tools: demo of awesome Mac Admin projects from GitHub
 * DevOps: How to adopt Automation and Best practices in IT operations
 * Dev skills: workshops on Ruby, Git, Python, Javascript for Mac Admins
+* MDM: Profiles and Mac configuration management in the cloud
 
