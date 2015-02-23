@@ -8,6 +8,6 @@ body_id: contacts
 
 {% include contacts.html %}
 
-##Organizers:
+##Organizers
 
-Mat X an Brian Warsing
+Co-chairs: Mat X and Brian Warsing
