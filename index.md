@@ -6,8 +6,6 @@ body_id: home
 
 # Date:   June 19, 2015
 
-## Registration:
-
 The cost is $99. Food is included on the day of the conference including a light breakfast and lunch. <a href="http://cars-ebmsweb.its.sfu.ca/logon/log_p1_logon.aspx?oc=05&cc=STANDARD-BBY&AppSessionID=ej9fakfa2ffpeiofcm&eventid=21141" target="_blank">Register here</a>. 
 
 ## Call for Submissions!
