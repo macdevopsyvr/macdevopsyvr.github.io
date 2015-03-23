@@ -27,7 +27,7 @@ Tim Sutton is a Mac sysadmin and a big fan of the MacAdmin professional communit
 ![Nick McSpadden](nick_mcspadden_233.jpg "Nick McSpadden")
 <p>
 Nick McSpadden is the Client Systems Manager at Schools of the Sacred Heart, San Francisco. He is in charge of the deployment of all client workstations and devices, including the faculty laptops and the school's 1:1 iPad program. He's used to working with different models for deployment and management of iOS devices alongside OS X devices.</p>
-![Mike Dodge]( "Mike Dodge")
+
 
 
 
