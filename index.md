@@ -8,6 +8,10 @@ body_id: home
 
 The early bird price is $99. (Cost goes up to $125 on April 1, 2015). Food is included on the day of the conference including a light breakfast and lunch. <a href="http://cars-ebmsweb.its.sfu.ca/logon/log_p1_logon.aspx?oc=05&cc=STANDARD-BBY&AppSessionID=ej9fakfa2ffpeiofcm&eventid=21141" target="_blank">Register here</a>. 
 
+There’s a guest room block at The Delta. Across the street from the conference. 
+
+Reservations can be made by calling 604.689.8188 or toll-free at 1.888.663.8811. 
+
 ## Call for Submissions!
 
 MacDevOpsYVR is now accepting submissions for its inaugural 2015 conference.
