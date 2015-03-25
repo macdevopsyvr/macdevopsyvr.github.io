@@ -6,7 +6,7 @@ body_id: home
 
 # Date:   June 19, 2015
 
-The early bird price is $99. (Cost goes up to $125 on April 1, 2015). Food is included on the day of the conference including a light breakfast and lunch. <a href="http://cars-ebmsweb.its.sfu.ca/logon/log_p1_logon.aspx?oc=05&cc=STANDARD-BBY&AppSessionID=ej9fakfa2ffpeiofcm&eventid=21141" target="_blank">Register here</a>. 
+The early bird price is $99. (Cost goes up to $125 on April 1, 2015). Food is included on the day of the conference including a light breakfast and lunch. <a href="http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141" target="_blank">Register here</a>. (Note: Fixed link)
 
 There’s a guest room block at The Delta. Across the street from the conference. 
 
