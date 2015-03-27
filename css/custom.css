@@ -81,3 +81,16 @@ footer {
   margin-top: -30px;
   padding-right: 10px;
 }
+
+.btn-register {
+  border-radius: 12px;
+  border-color: #1B9344;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  padding: 28px 10px;
+  text-transform: uppercase;
+  width:300px;
+  height:100px;
+}
+
