@@ -94,3 +94,12 @@ footer {
   height:100px;
 }
 
+.headshot-img {
+  float: left;
+  padding: 0px 12px 12px 0px;
+/*  padding: 12px 12px 12px 12px;*/
+}
+
+.headshot-caption {
+  font-size: 18px;
+}
