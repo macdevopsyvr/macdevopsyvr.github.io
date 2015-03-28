@@ -1,7 +1,7 @@
 ---
 layout: default
-title: speakers
-body_id: speakers
+title: sponsors
+body_id: sponsors
 ---
 
 # Sponsors

@@ -5,6 +5,7 @@ $(function(){
   $("#speakers   a:contains('Speakers')").parent().addClass('active');
   $("#workshops  a:contains('Workshops')").parent().addClass('active');
   $("#activities a:contains('Activities')").parent().addClass('active');
+  $("#sponsors   a:contains('Sponsors')").parent().addClass('active');
   $("#contacts   a:contains('Contacts')").parent().addClass('active');
 
   function initialize() {
