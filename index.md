@@ -10,14 +10,16 @@ body_id: home
 
 #### Pricing: _$125.00_
 
-
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
 
 #### Accommodations
 
-A guest room block has been reserved at The Delta Vancouver Suites (across the street from SFU Harbour Centre). Use the code: MacDevOps
+A guest room block has been reserved at The Delta Vancouver Suites (across the street from SFU Harbour Centre).
+
+Use discount code: _MacDevOps_
 
 Call for Reservations:
+
 * 1-604-689-8188
 * 1-888-663-8811 (toll-free)
 
