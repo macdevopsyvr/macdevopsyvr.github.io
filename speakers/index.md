@@ -28,7 +28,7 @@ A complete list of speakers will be posted after {{ site.submissions_deadline }}
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/hackert.jpg">
+  <img class="headshot-img" src="/assets/clay200.jpg">
   <div class="responsive">
     <h4>Clay Caviness</h4>
     <p class="lead">
