@@ -8,9 +8,8 @@ body_id: home
 
 ### [REGISTER NOW](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
 
-#### Pricing:  _$99.00_ (early bird) or  _$125.00_
+#### Pricing: _$125.00_
 
-#### Early Bird Deadline: April 1, 2015
 
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
 
