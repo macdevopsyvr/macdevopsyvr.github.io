@@ -83,7 +83,7 @@ A complete list of speakers will be posted after {{ site.submissions_deadline }}
   <div class="responsive">
     <h4>Greg Neagle</h4>
     <p class="lead">
-      Greg Neagle is a Sr. Systems Engineer at Walt Disney Animation Studios.
+      Greg Neagle is a Sr. Systems Engineer at a large animation studio. Creator of Munki, which is currently in use at organizations all over the world, managing software for tens of thousands of Macs: https://github.com/munki/munki
     </p>
   </div>
 </div>
