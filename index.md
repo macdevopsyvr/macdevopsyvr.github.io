@@ -21,9 +21,6 @@ Call for Reservations:
 * 1-604-689-8188
 * 1-888-663-8811 (toll-free)
 
-## Call for Submissions Is Now Closed
-
-
 #### Speakers and workshops on various topics:
 
 * Puppet, Chef and other automation from Desktop to Cloud and back
