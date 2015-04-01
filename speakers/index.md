@@ -32,9 +32,67 @@ A complete list of speakers will be posted after {{ site.submissions_deadline }}
   <div class="responsive">
     <h4>Nick McSpadden</h4>
     <p class="lead">
-      Nick McSpadden is the Client Systems Manager at Schools of the Sacred Heart, San Francisco. He is in charge of the deployment of all client workstations and devices, including the faculty laptops and the school's 1:1 iPad program. He's used to working with different models for deployment and management of iOS devices alongside OS X devices.
+      Nick McSpadden is the Client Systems Manager at Schools of the Sacred Heart, San Francisco. He is in charge of the deployment of all client workstations and devices, including the faculty laptops and the school's 1:1 iPad program. He's used to working with different models for deployment and management of iOS devices alongside OS X devices. Blog: https://osxdominion.wordpress.com
     </p>
   </div>
 </div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/chilcote.jpg">
+  <div class="responsive">
+    <h4>Joseph Chilcote</h4>
+    <p class="lead">
+      Joseph Chilcote is a Mac Sysadmin at Adobe Systems. Creator of vfuse: https://github.com/chilcote/vfuse
+    </p>
+  </div>
+</div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/neagle.jpg">
+  <div class="responsive">
+    <h4>Greg Neagle</h4>
+    <p class="lead">
+      Greg Neagle is a Sr. Systems Engineer at Walt Disney Animation Studios.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/dgj_200x200.jpg">
+  <div class="responsive">
+    <h4>Brian Warsing</h4>
+    <p class="lead">
+      Brian Warsing is technical lead for the managed Mac project at SFU. Managedmac is a Puppet module designed to make OS X configuration simple. See: http://dayglojesus.github.io/managedmac/
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/shott.jpg">
+  <div class="responsive">
+    <h4>Riley Shott</h4>
+    <p class="lead">
+      Riley Shott, recovering Puppet master, is now working his magic with Chef recipes.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">
+  <div class="responsive">
+    <h4>Mike Dodge</h4>
+    <p class="lead">
+      Mike Dodge is a Client Platform Engineer at Facebook.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/hackert.jpg">
+  <div class="responsive">
+    <h4>Jeff Hackert</h4>
+    <p class="lead">
+      Jeff Hackert is the Director of Engineering Development at Chef.
+    </p>
+  </div>
+</div>
