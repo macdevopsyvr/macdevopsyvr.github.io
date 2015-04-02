@@ -12,6 +12,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 
 #### Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
 <br>
+
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/clay200.jpg">
   <div class="responsive">
