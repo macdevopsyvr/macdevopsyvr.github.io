@@ -78,7 +78,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
   <div class="responsive">
     <h4>Nick McSpadden</h4>
     <p class="lead">
-      Nick McSpadden is the Client Systems Manager at Schools of the Sacred Heart, San Francisco. He is in charge of the deployment of all client workstations and devices, including the faculty laptops and the school's 1:1 iPad program. He's used to working with different models for deployment and management of iOS devices alongside OS X devices. Blog: https://osxdominion.wordpress.com
+      Nick McSpadden is the Client Systems Manager at Schools of the Sacred Heart, San Francisco. He is in charge of the deployment of all client workstations and devices, including the faculty laptops and the school's 1:1 iPad program. Blog: https://osxdominion.wordpress.com
     </p>
   </div>
 </div>
@@ -108,7 +108,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
   <div class="responsive">
     <h4>Tim Sutton</h4>
     <p class="lead">
-      Tim Sutton is a Mac sysadmin and a big fan of the MacAdmin professional community. At work, he cares and feeds for a fleet of Macs in the Faculty of Fine Arts at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins, tries (when possible) to solve problems using code instead of labour, and blogs about these topics at http://macops.ca.
+      Tim Sutton is a Mac sysadmin in the Faculty of Fine Arts at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins, tries (when possible) to solve problems using code instead of labour. Blog: http://macops.ca.
     </p>
   </div>
 </div>
