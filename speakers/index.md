@@ -12,6 +12,15 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 
 #### Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
 <br>
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/clay200.jpg">
+  <div class="responsive">
+    <h4>Clay Caviness</h4>
+    <p class="lead">
+    Clay Caviness has been a Mac and UNIX systems engineer since the early 90s and was thrilled when NeXT bought Apple. Clay currently works for Google in New York City.
+    </p>
+  </div>
+</div>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/chilcote.jpg">
@@ -24,15 +33,14 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/clay200.jpg">
+  <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">
   <div class="responsive">
-    <h4>Clay Caviness</h4>
+    <h4>Mike Dodge</h4>
     <p class="lead">
-      Clay Caviness is a Systems Engineer at Google.
+      Mike Dodge is a Client Platform Engineer at Facebook.
     </p>
   </div>
 </div>
-
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/eigerman.jpg">
@@ -45,11 +53,11 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">
+  <img class="headshot-img" src="/assets/keeley.jpg">
   <div class="responsive">
-    <h4>Mike Dodge</h4>
+    <h4>Samuel Keeley</h4>
     <p class="lead">
-      Mike Dodge is a Client Platform Engineer at Facebook.
+      Samuel Keeley is a Site Reliability Engineer at Dropbox.
     </p>
   </div>
 </div>
