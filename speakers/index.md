@@ -28,7 +28,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
     <p class="lead">
-      Joseph Chilcote is a Mac Sysadmin at Adobe Systems. Creator of vfuse: https://github.com/chilcote/vfuse
+      Joseph Chilcote is a Senior Systems Engineer at Splunk. Instigator of vfuse: https://github.com/chilcote/vfuse
     </p>
   </div>
 </div>
