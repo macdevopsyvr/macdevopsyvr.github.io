@@ -8,4 +8,4 @@ body_id: sponsors
 
 A page where we thank our wonderful and generous sponsors.
 
-  <img class="headshot-img" src="/assets/JAMF-Software-Blue-Logo-Print.jpg">
+  <img src="/assets/JAMF-Software-Blue-Logo-Print.jpg">
