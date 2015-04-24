@@ -8,14 +8,13 @@ body_id: workshops
 
 <p class="lead">
 
-Hands-on workshops on OS X packaging, deployment, automation tools and more!
+Sessions and workshops schedule
 
 </p>
 
 <p class="lead">
 
-Get practical instruction using some of the tools and technologies our presenters will be discussing during the conference.
-
+<img height="672" width="603"  src="/assets/MacDevOpsYVR2015-Schedule.jpg">
 </p>
 
 <p class="lead">
@@ -23,4 +22,4 @@ Get practical instruction using some of the tools and technologies our presenter
 Don't miss out on this unique opportunity to learn from your peers!
 </p>
 
-####A complete list of workshops will be posted after {{ site.submissions_deadline }}.
+####The list of sessions and workshops are subject to change. If there are changes we will post updates.
