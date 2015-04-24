@@ -8,7 +8,8 @@ body_id: activities
 
 <p class="lead">
 
-Organizers are planning some excellent and unique Vancouver outings for participants to enjoy.
+Organizers are planning a pre-conference social event. Location and time to be announced soon. A wrap up post-event are also under consideration. Stay tuned.
+
 
 </p>
 
