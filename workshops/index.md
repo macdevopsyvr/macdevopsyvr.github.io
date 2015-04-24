@@ -14,7 +14,7 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-<img height="672" width="603"  src="/assets/MacDevOpsYVR2015-Schedule.jpg">
+<img height="617" width="549"  src="/assets/MacDevOpsYVR2015-Schedule.jpg">
 </p>
 
 <p class="lead">
