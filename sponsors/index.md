@@ -8,6 +8,6 @@ body_id: sponsors
 
 A page where we thank our wonderful and generous sponsors.
 
-<p>Silver sponsor: <img src height="29" width="334" src="/assets/archiware_logo_rgb_72dpi.png"></p>
+<p>Silver sponsor: <img src height="29" width="334" src="/assets/archiware_logo_rgb_700px-72dpi"></p>
 <hr>
 <p>Bronze sponsor:  <img height="122" width="520"  src="/assets/JAMF-Software-Blue-Logo-Print.jpg"></p>
