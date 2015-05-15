@@ -8,7 +8,7 @@ body_id: home
 
 ### [REGISTER NOW](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
 
-#### Pricing: _$125.00_
+#### Pricing: _$125.00_  (Don't delay! Price goes up to $150 on May 29th)
 
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
 
@@ -22,6 +22,8 @@ Call for Reservations:
 
 * 1-604-689-8188
 * 1-888-663-8811 (toll-free)
+
+DEADLINE: The last day to book rooms using the MacDevOPs code is Monday May 18.  
 
 #### Speakers and workshops on various topics:
 
