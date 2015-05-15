@@ -23,7 +23,9 @@ Call for Reservations:
 * 1-604-689-8188
 * 1-888-663-8811 (toll-free)
 
-DEADLINE: The last day to book rooms using the MacDevOPs code is Monday May 18.  
+#### DEADLINE: 
+
+The last day to book rooms using the MacDevOps code is Monday May 18.  
 
 #### Speakers and workshops on various topics:
 
