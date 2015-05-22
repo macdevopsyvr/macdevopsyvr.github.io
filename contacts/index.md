@@ -12,11 +12,15 @@ body_id: contacts
 
 Co-chairs: Mat X and Brian Warsing
 
-##Credits
+##Thanks
+
+Website: Brian Warsing
 
 Design Ninja: Ted Sherman
 
 Brain Trust: Riley Shott, Scott Neal, 
 
 Life coach: Chris Johnson
+
+Awesome dude: Luis Giraldo
 
