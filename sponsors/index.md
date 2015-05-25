@@ -7,7 +7,7 @@ body_id: sponsors
 # Sponsors
 
 A page where we thank our wonderful and generous sponsors.
-<p>Gold sponsor: <a href="http://www.quantum.com"><img height="35" width="229" src="/assets/Quantum_Logo_229x35.jpg"></a></p>
+<p>Gold sponsor: <a href="http://www.quantum.com"><img height="70" width="458" src="/assets/Quantum_Logo_229x35.jpg"></a></p>
 <p>Silver sponsor: <a href="http://www.archiware.com/home.1.1.html"><img height="61" width="700" src="/assets/archiware_logo_rgb_700px-72dpi.png"></a></p>
 <hr>
 <p>Bronze sponsors: <a href="http://www.jamfsoftware.com"><img height="122" width="520" src="/assets/JAMF-Software-Blue-Logo-Print.jpg"></a></p>
