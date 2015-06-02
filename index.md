@@ -6,8 +6,7 @@ body_id: home
 
 # Date: June 19, 2015
 
-### [SOLD OUT](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
-
+### SOLD OUT
 #### Pricing: _$150.00_  
 
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
