@@ -8,13 +8,13 @@ body_id: home
 
 ### [REGISTER NOW](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
 
-#### Pricing: _$125.00_  (Don't delay! Price goes up to $150 on May 29th)
+#### Pricing: _$150.00_  
 
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
 
 #### Accommodations
 
-A guest room block has been reserved at The Delta Vancouver Suites (across the street from SFU Harbour Centre).
+A guest room block was reserved at The Delta Vancouver Suites. The last day to book rooms using the MacDevOps code was Monday May 18.  
 
 Use discount code: _MacDevOps_
 
@@ -23,9 +23,8 @@ Call for Reservations:
 * 1-604-689-8188
 * 1-888-663-8811 (toll-free)
 
-#### DEADLINE: 
 
-The last day to book rooms using the MacDevOps code is Monday May 18.  
+
 
 #### Speakers and workshops on various topics:
 
