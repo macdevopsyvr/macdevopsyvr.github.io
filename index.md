@@ -16,15 +16,6 @@ Join your peers at the inaugural one day MacDevOps conference in beautiful Vanco
 
 A guest room block was reserved at The Delta Vancouver Suites. The last day to book rooms using the MacDevOps code was Monday May 18.  
 
-Use discount code: _MacDevOps_
-
-Call for Reservations:
-
-* 1-604-689-8188
-* 1-888-663-8811 (toll-free)
-
-
-
 
 #### Speakers and workshops on various topics:
 
