@@ -6,7 +6,7 @@ body_id: home
 
 # Date: June 19, 2015
 
-### [REGISTER NOW](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
+### [SOLD OUT](http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=21141)
 
 #### Pricing: _$150.00_  
 
