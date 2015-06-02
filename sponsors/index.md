@@ -13,3 +13,5 @@ A page where we thank our wonderful and generous sponsors.
 <p>Bronze sponsors: <a href="http://www.jamfsoftware.com"><img height="122" width="520" src="/assets/JAMF-Software-Blue-Logo-Print.jpg"></a></p>
 <hr>
 <p><a href="https://www.watchmanmonitoring.com"><img height="127" width="550" src="/assets/Watchman-Monitoring-logo-blue550.png"></a></p>
+<hr>
+<p><a href="https://www.vidixplore.com"><img height="84" width="550" src="/assets/vidixplore_black550.png"></a></p>
