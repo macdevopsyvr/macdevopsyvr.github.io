@@ -64,16 +64,6 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/hackert.jpg">
-  <div class="responsive">
-    <h4>Jeff Hackert</h4>
-    <p class="lead">
-      Jeff Hackert is the Director of Engineering Development at Chef.
-    </p>
-  </div>
-</div>
-
-<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/nick_mcspadden_233.jpg">
   <div class="responsive">
     <h4>Nick McSpadden</h4>
