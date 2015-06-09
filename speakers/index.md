@@ -64,6 +64,16 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/MichaelLynn200.png">
+  <div class="responsive">
+    <h4>Michael Lynn</h4>
+    <p class="lead">
+      Michael Lynn is a system administrator for a moderately sized government department in Washington state. He is obsessed with python and OS X.
+    </p>
+  </div>
+  
+</div>
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/nick_mcspadden_233.jpg">
   <div class="responsive">
     <h4>Nick McSpadden</h4>
