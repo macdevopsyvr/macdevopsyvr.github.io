@@ -8,7 +8,9 @@ body_id: activities
 
 <p class="lead">
 
-Organizers are planning a pre-conference social event. Location and time to be announced soon. A wrap up post-event are also under consideration. Stay tuned.
+Organizers are planning a pre-conference meetup at Spencer's Lounge, situated at the Delta (Hotel). Time to be announced soon. 
+<p>
+<p>A wrap up reception is planned to start immediately after the last speaker. Hors D'oeuvres provided. Cash bar.
 
 
 </p>
