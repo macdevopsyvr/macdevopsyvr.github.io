@@ -8,11 +8,23 @@ body_id: activities
 
 <p class="lead">
 
-Organizers are planning a pre-conference meetup at Spencer's Lounge, situated at the Delta (Hotel). Time to be announced soon. 
-</p>
-<p class="lead">A wrap up reception is planned to start immediately after the last speaker. Hors D'oeuvres provided. Cash bar.
+Mix-n-Mingle
 
-</p>
+- Thursday, June 18 from 7:00-9:00 pm
 
-#### Drop us a line on [Twitter](https://twitter.com/intent/tweet?screen_name=MacDevOpsYVR) or [Email]({{ site.email }})...
+- Spencer’s Lounge in the Delta Vancouver Suites Hotel
+
+- Meet fellow attendees at this casual pre-conference social
+
+
+Closing Party
+
+- Friday, June 19 from 6:00-7:00 pm (immediately following the close of the conference)
+
+- Room 1400 Segal Centre - SFU Harbor Centre Campus
+
+- After an intense day of learning and networking, enjoy a drink and unwind with your fellow attendees
+
+- Appetizers provided, cash bar 
+</p>
 
