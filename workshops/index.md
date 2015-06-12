@@ -14,12 +14,11 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-<img height="651" width="588"  src="/assets/MacDevOpsYVR2015-Schedule.jpg">
+<img height="627" width="598"  src="/assets/MacDevOps_Schedule_Final.png">
 </p>
 
 <p class="lead">
 
-Don't miss out on this unique opportunity to learn from your peers!
 </p>
 
 ####The list of sessions and workshops are subject to change. If there are changes we will post updates.
