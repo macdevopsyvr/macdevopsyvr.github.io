@@ -94,6 +94,15 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/robson.jpg">
+  <div class="responsive">
+    <h4>Wade Robson</h4>
+    <p class="lead">
+      Wade Robson has worked for BC's largest Apple Reseller, now he's wrangling macs for urthecast
+    </p>
+  </div>
+</div>
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/shott.jpg">
   <div class="responsive">
     <h4>Riley Shott</h4>
