@@ -14,7 +14,7 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-<img height="623" width="465"  src="/assets/FinalSchedule-Pretty.png">
+<img height="622" width="473"  src="/assets/Final-FinalSchedule-Prettiest.png	">
 </p>
 
 <p class="lead">
