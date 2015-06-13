@@ -14,7 +14,7 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-<img height="627" width="598"  src="/assets/MacDevOps_Schedule_Final.png">
+<img height="623" width="465"  src="/assets/FinalSchedule-Pretty.png">
 </p>
 
 <p class="lead">
