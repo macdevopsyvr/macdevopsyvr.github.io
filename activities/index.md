@@ -11,7 +11,7 @@ body_id: activities
 <h3>Mix-n-Mingle</h3>
 <ul>
 <li> Thursday, June 18 from 7:00-9:00 pm</li>
-<li> Spencer’s Lounge in the Delta Vancouver Suites Hotel</li>
+<li> Spencer's Lounge in the Delta Vancouver Suites Hotel</li>
 <li> Meet fellow attendees at this casual pre-conference social</li>
 </ul>
 
