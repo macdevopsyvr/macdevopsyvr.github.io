@@ -70,7 +70,7 @@ body_id: home
   <img class="headshot-img" src="/assets/vid_thumbs/nick.png">
   <div class="responsive">
     <h4>Docker for Mac Admins</h4>
-    <p*>*
+    <p>
       Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
     </p>
     <p class="lead">
@@ -95,7 +95,7 @@ body_id: home
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/vid_thumbs/mikey.png">
   <div class="responsive">
-    <h4>Python and CTypes</h4>
+    <h4>Advanced Magic: Python and CTypes</h4>
     <p>
       Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python CTypes.
     </p>
@@ -110,7 +110,7 @@ body_id: home
   <div class="responsive">
     <h4>Getting Started with Munki</h4>
     <p>
-      You're not already using Munki? Sorry, but don't worry... Greg Neagle is here to help you get rolling with his OS X package deployment system.
+      You're not already using Munki? Greg Neagle is here to help you get rolling with his OS X package deployment system.
     </p>
     <p class="lead">
       <a href="http://macdevops.ca/MDO2015/8_Greg_Neagle__Disney_Animatio.P2G/Default.html">Watch the Video</a>
@@ -121,7 +121,7 @@ body_id: home
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/vid_thumbs/sam.png">
   <div class="responsive">
-    <h4>Using Munki with Git</h4>
+    <h4>Munki and Friends: Git Under Control</h4>
     <p>
       Now that you're a Munki expert, Sam Keeley is here to show you how to maintain your Munki repo and your sanity.
     </p>
@@ -134,7 +134,7 @@ body_id: home
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/vid_thumbs/google.png">
   <div class="responsive">
-    <h4>Google Mac DevOps</h4>
+    <h4>MacDevOps at Scale</h4>
     <p>
       Everybody knows Google has all the Macs. Ed Eigerman and Clay Caviness are here to discuss how they keep them safe and up-to-date.
     </p>
@@ -147,7 +147,7 @@ body_id: home
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/vid_thumbs/joe.png">
   <div class="responsive">
-    <h4>vFuse</h4>
+    <h4>Virtual Automation</h4>
     <p>
       You use VMWare, but Joseph Chilcote is going to show you how to build VMs faster and better using vFuse.
     </p>
