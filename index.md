@@ -7,13 +7,13 @@ body_id: home
 # Date: June 19, 2015
 
 ### SOLD OUT
-#### Pricing: _$150.00_  
+#### Pricing: _$150.00_
 
 Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
 
 #### Accommodations
 
-A guest room block was reserved at The Delta Vancouver Suites. The last day to book rooms using the MacDevOps code was Monday May 18.  
+A guest room block was reserved at The Delta Vancouver Suites. The last day to book rooms using the MacDevOps code was Monday May 18.
 
 
 #### Speakers and workshops on various topics:
@@ -56,7 +56,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 
 ### Reporting
 
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. 
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
 You can also send an email to [yvr@macdevops.ca](mailto:yvr@macdevops.ca).
 
