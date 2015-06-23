@@ -6,62 +6,167 @@ body_id: home
 
 # Date: June 19, 2015
 
-### SOLD OUT
-#### Pricing: _$150.00_
+### We did it! MacDevOpsYVR's inaugural conference is now complete.
 
-Join your peers at the inaugural one day MacDevOps conference in beautiful Vancouver, BC. Light breakfast, lunch and refreshments are included in registration fee.
+#### To all our wonderful sponsors and attendees, THANK YOU for helping us put on an amazing conference.
 
-#### Accommodations
+#### We could not have done it without your enormous support!
 
-A guest room block was reserved at The Delta Vancouver Suites. The last day to book rooms using the MacDevOps code was Monday May 18.
+# Presentations
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/intro.jpg">
+  <div class="responsive">
+    <h4>Introduction</h4>
+    <p>
+      Organizer Mat X welcomes the inaugural MacDevOpsYVR attendees
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/1_Mac_Dev_Ops_YVR_Intro_w__Mat.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-#### Speakers and workshops on various topics:
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/skip.jpg">
+  <div class="responsive">
+    <h4>Quick Talk: Quantum's Skip Levens</h4>
+    <p>
+      Quantum's Skip Levens shares some lessons on the importance of collaboration and the spirit of DevOps.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/2_Skip_Levens_-_Quantum.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-* Puppet, Chef and other automation from Desktop to Cloud and back
-* Software deployment with Munki and AutoPkg: the app ecosystem surrounding it
-* Cool tools: demo of awesome Mac Admin projects from GitHub
-* DevOps: How to adopt Automation and Best practices in IT operations
-* Dev skills: workshops for Mac Admins
-* MDM: Profiles and Mac configuration management in the cloud
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/mm.jpg">
+  <div class="responsive">
+    <h4>Managed Mac</h4>
+    <p>
+      Brian Warsing and Riley Shott discuss the trials and tribulations of building an in-house Puppet-as-a-Service.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/3_Brian___Riley_-_Managed_Mac_.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-# The MacDevOps:YVR Code of Conduct
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/wade.jpg">
+  <div class="responsive">
+    <h4>Quick Talk: DEP hack</h4>
+    <p>
+      Wade Robson demonstrates his unique automation magic for wrangling Macs that ship with hardware-specific OS X builds.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/4_Wade_-_DEP_Hack_Demo.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-## Need Help?
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/nick.jpg">
+  <div class="responsive">
+    <h4>Docker for Mac Admins</h4>
+    <p>
+      Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/5_Nick_McSpadden_-_Docker_for_.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-If you have any questions, comments, concerns, or to report anything that makes you feel uncomfortable or unsafe, you can use these channels:
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/tim.jpg">
+  <div class="responsive">
+    <h4>Python for Mac Admins</h4>
+    <p>
+      Follow along with Tim Sutton as he runs down the vast list of ways Python is tailored for Mac Admins.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/6_Tim_Sutton_-_Python_for_Mac.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-* Email: [yvr@macdevops.ca](mailto:yvr@macdevops.ca)
-* In person: Any organizer
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/mikey.jpg">
+  <div class="responsive">
+    <h4>Python and CTypes</h4>
+    <p>
+      Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python C-Types.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/7_Michael_Lynn_-_Python_and_ct.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-## The Quick Version
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/greg.jpg">
+  <div class="responsive">
+    <h4>Getting Started with Munki</h4>
+    <p>
+      You're not already using Munki? Sorry, but don't worry... Greg Neagle is here to help you get rolling with his OS X package deployment system.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/8_Greg_Neagle__Disney_Animatio.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-MacDevOps:YVR is dedicated to providing a safe and comfortable environment for all our participants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/sam.jpg">
+  <div class="responsive">
+    <h4>Using Munki with Git</h4>
+    <p>
+      Now that you're a Munki expert, Sam Keeley is here to show you how to maintain your Munki repo and your sanity.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/9_Sam_Keeley__Dropbox_-_Munki_.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-All organizers, attendees, speakers, sponsors, and volunteers at MacDevOps:YVR are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/google.jpg">
+  <div class="responsive">
+    <h4>Google Mac DevOps</h4>
+    <p>
+      Everybody knows Google has all the Macs. Ed Eigerman and Clay Caviness are here to discuss how they keep them safe and up-to-date.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/10_Ed___Clay__Google_-_MacOps.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-## The Less Quick Version
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/joe.jpg">
+  <div class="responsive">
+    <h4>vFuse</h4>
+    <p>
+      You use VMWare, but Joseph Chilcote is going to show you how to build VMs faster and better using vFuse.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/11_Joseph_Chilcote_-_vFuse.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-Everyone - including attendees, sponsors, speakers, and organizers - is required to agree to and follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated.
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/vid_thumbs/mike.jpg">
+  <div class="responsive">
+    <h4>Chef at Facebook</h4>
+    <p>
+      Who does all the cooking at Facebook? It's Mike Dodge and he wants you to become a Chef as well. Here's a taste...
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2015/12_Mike_Dodge_-_Chef_at_Facebo.P2G/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
 
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant. This includes in our community online, at all related events, and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-
-MacDevOps:YVR is dedicated to providing a harassment-free conference for all attendees, regardless of gender identity, sex, race, ethnicity, sexual orientation, religion, age, disability, physical appearance, or body size. Harassment includes: prejudicial verbal or written comments, sexual imagery in public spaces or inappropriate use of nudity (including in presentation slides), deliberate intimidation, stalking or following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Sponsors and speakers should not use sexualized or inappropriate images, activities, or other material in their advertisements or talks. Booth staff, including volunteers, should not use sexualized clothing/uniforms/costumes or otherwise create a sexualized environment. We reserve the right to review all materials and remove them from distribution if they are determined to be inappropriate.
-
-Finally, anything that would make someone think "Hmmm, that's inappropriate" may also be unacceptable behavior.
-
-Any participant asked to stop any harassing behavior is expected to comply immediately. We expect all participants to follow these rules at conference and workshop venues, as well as conference-related social events.
-
-### Reporting
-
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
-
-You can also send an email to [yvr@macdevops.ca](mailto:yvr@macdevops.ca).
-
-### Enforcement
-
-If a participant is asked to stop harassing or inappropriate behavior, they are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate; this may include warning the participant, immediate expulsion from the conference with no refund, and/or banning from any future MacDevOps:YVR conferences or associated events.
-
-Our foremost concern is the safety and comfort of all our participants. We will evaluate any possible sanctions with regard to whether or not they provide the safety needed.
