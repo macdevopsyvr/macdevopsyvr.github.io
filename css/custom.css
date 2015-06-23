@@ -94,6 +94,13 @@ footer {
   height:100px;
 }
 
+.vid-thumb {
+  float: left;
+  padding: 0px 12px 0px 0px;
+  width: 200px;
+/*  padding: 12px 12px 12px 12px;*/
+}
+
 .headshot-img {
   float: left;
   padding: 0px 12px 0px 0px;
