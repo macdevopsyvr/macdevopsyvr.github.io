@@ -15,7 +15,7 @@ body_id: home
 # Presentations
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/intro.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/intro.png">
   <div class="responsive">
     <h4>Introduction</h4>
     <p>
@@ -28,7 +28,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/skip.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/skip.png">
   <div class="responsive">
     <h4>Quick Talk: Quantum's Skip Levens</h4>
     <p>
@@ -41,7 +41,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mm.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/mm.png">
   <div class="responsive">
     <h4>Managed Mac</h4>
     <p>
@@ -54,7 +54,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/wade.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/wade.png">
   <div class="responsive">
     <h4>Quick Talk: DEP Hack</h4>
     <p>
@@ -67,10 +67,10 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/nick.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/nick.png">
   <div class="responsive">
     <h4>Docker for Mac Admins</h4>
-    <p>
+    <p*>*
       Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
     </p>
     <p class="lead">
@@ -80,7 +80,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/tim.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/tim.png">
   <div class="responsive">
     <h4>Python for Mac Admins</h4>
     <p>
@@ -93,7 +93,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mikey.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/mikey.png">
   <div class="responsive">
     <h4>Python and CTypes</h4>
     <p>
@@ -106,7 +106,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/greg.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/greg.png">
   <div class="responsive">
     <h4>Getting Started with Munki</h4>
     <p>
@@ -119,7 +119,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/sam.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/sam.png">
   <div class="responsive">
     <h4>Using Munki with Git</h4>
     <p>
@@ -132,7 +132,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/google.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/google.png">
   <div class="responsive">
     <h4>Google Mac DevOps</h4>
     <p>
@@ -145,7 +145,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/joe.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/joe.png">
   <div class="responsive">
     <h4>vFuse</h4>
     <p>
@@ -158,7 +158,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mike.jpg">
+  <img class="headshot-img" src="/assets/vid_thumbs/mike.png">
   <div class="responsive">
     <h4>Chef at Facebook</h4>
     <p>
