@@ -56,7 +56,7 @@ body_id: home
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/vid_thumbs/wade.jpg">
   <div class="responsive">
-    <h4>Quick Talk: DEP hack</h4>
+    <h4>Quick Talk: DEP Hack</h4>
     <p>
       Wade Robson demonstrates his unique automation magic for wrangling Macs that ship with hardware-specific OS X builds.
     </p>
@@ -97,7 +97,7 @@ body_id: home
   <div class="responsive">
     <h4>Python and CTypes</h4>
     <p>
-      Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python C-Types.
+      Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python CTypes.
     </p>
     <p class="lead">
       <a href="http://macdevops.ca/MDO2015/7_Michael_Lynn_-_Python_and_ct.P2G/Default.html">Watch the Video</a>
