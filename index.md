@@ -174,7 +174,7 @@ Kevin Ang, Marc Batchkus, Robert Broad, Michelle Chau, Yogesh Chhotubhai, Ariel 
       Who does all the cooking at Facebook? It's Mike Dodge and he wants you to become a Chef as well. Here's a taste...
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/mike/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/fb/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
