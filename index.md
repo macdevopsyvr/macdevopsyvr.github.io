@@ -12,10 +12,13 @@ body_id: home
 
 #### We could not have done it without your enormous support!
 
+
+### Special Thanks
+
 # Presentations
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/intro.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/intro.png">
   <div class="responsive">
     <h4>Introduction</h4>
     <p>
@@ -28,7 +31,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/skip.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/skip.png">
   <div class="responsive">
     <h4>Quick Talk: Quantum's Skip Levens</h4>
     <p>
@@ -41,7 +44,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mm.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/mm.png">
   <div class="responsive">
     <h4>Managed Mac</h4>
     <p>
@@ -54,9 +57,9 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/wade.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/wade.png">
   <div class="responsive">
-    <h4>Quick Talk: DEP Hack</h4>
+    <h4>Quick Talk: Hack Your Mac into Munki and Casper</h4>
     <p>
       Wade Robson demonstrates his unique automation magic for wrangling Macs that ship with hardware-specific OS X builds.
     </p>
@@ -67,9 +70,9 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/nick.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/nick.png">
   <div class="responsive">
-    <h4>Docker for Mac Admins</h4>
+    <h4 style="display:inline">Docker for Mac Admins</h4>
     <p>
       Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
     </p>
@@ -80,7 +83,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/tim.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/tim.png">
   <div class="responsive">
     <h4>Python for Mac Admins</h4>
     <p>
@@ -93,7 +96,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mikey.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/mikey.png">
   <div class="responsive">
     <h4>Advanced Magic: Python and CTypes</h4>
     <p>
@@ -106,7 +109,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/greg.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/greg.png">
   <div class="responsive">
     <h4>Getting Started with Munki</h4>
     <p>
@@ -119,7 +122,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/sam.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/sam.png">
   <div class="responsive">
     <h4>Munki and Friends: Git Under Control</h4>
     <p>
@@ -132,7 +135,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/google.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/google.png">
   <div class="responsive">
     <h4>MacDevOps at Scale</h4>
     <p>
@@ -145,7 +148,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/joe.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/joe.png">
   <div class="responsive">
     <h4>Virtual Automation</h4>
     <p>
@@ -158,7 +161,7 @@ body_id: home
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/vid_thumbs/mike.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
   <div class="responsive">
     <h4>Chef at Facebook</h4>
     <p>
