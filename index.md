@@ -14,9 +14,7 @@ body_id: home
 
 ## Special Thanks
 
-##### A very special thanks to Mark Jutras and the SFU IT Services crew in Vancouver without whom this event could not have happened.
-
-##### Hats-off to all of you.
+##### A very special thanks to Mark Jutras and the SFU IT Services crew in Vancouver without whom this event could not have happened. Hats-off to all of you.
 
 #### Our Volunteers, Sages and Merciful Crew...
 
