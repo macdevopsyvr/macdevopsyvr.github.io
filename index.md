@@ -20,7 +20,7 @@ body_id: home
 
 #### Our Volunteers, Sages and Merciful Crew...
 
-Kevin Ang, Marc Batchkus, Robert Broad, Michelle Chau, Yogesh Chhotubhai, Ariel Chiu, Matthew Chow, Mark Cohen, Andrew Culp, Chris Dawe, Luis Giraldo, Jeff Hackert, Chris Jarvis, Chris Johnson, Mark Jutras, Nigel Kersten, Allan Kuan, Tahlia Lin, Sean Mauser, Scott Neal, Corey Nelson, Stephen Partridge, James Peltier, Dale Richards, James Robinson, Jody Rogers, Ted Sherman, Mike Szumlinski, Nicolas Untz, Derik Whitehead, Gloria Wong, Nellie Yee
+Kevin Ang, Marc Batchkus, Robert Broad, Michelle Chau, Yogesh Chhotubhai, Ariel Chiu, Matthew Chow, Mark Cohen, Andrew Culp, Chris Dawe, Luis Giraldo, Ryan Granholm, Jeff Hackert, Chris Jarvis, Chris Johnson, Mark Jutras, Nigel Kersten, Allan Kuan, Tahlia Lin, Sean Mauser, Scott Neal, Corey Nelson, Stephen Partridge, James Peltier, Dale Richards, James Robinson, Jody Rogers, Mohammed Saddiq, Ted Sherman, Mike Szumlinski, Nicolas Untz, Derik Whitehead, Gloria Wong, Nellie Yee
 
 # Presentations
 
