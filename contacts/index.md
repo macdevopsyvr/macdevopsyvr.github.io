@@ -16,7 +16,7 @@ Co-chairs: Mat X and Brian Warsing
 
 Website: Brian Warsing
 
-Design Ninja: Ted Sherman
+Marketing Ninja: Ted Sherman
 
 Brain Trust: Riley Shott, Scott Neal, 
 
