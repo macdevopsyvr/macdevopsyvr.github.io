@@ -15,13 +15,13 @@ body_id: home
 
 ## SPEAKERS
 
-### André Aulich
-### Moosystems 
-###https://moosystems.com 
+## André Aulich, Moosystems 
+ https://moosystems.com 
 Moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
 
-### Gretchen 
-### SysAdmin at Penn State, speaking about Ansible.
+## Gretchen, SysAdmin at Penn State
+
+Speaking about Ansible.
 
 
 
