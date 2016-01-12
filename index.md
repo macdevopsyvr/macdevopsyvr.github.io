@@ -11,7 +11,7 @@ MacDevOps:YVR is the #1 conference in the Pacific NorthWest for MacAdmins intere
 
 ## Call for proposals is now open:
 
-We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHub, JavaScript, Slack, Vagrant, Puppet, Python, Ruby, or anything that talks about automation, or how Mac SysAdmins can incorporate good habits from developers into their professional lives.
+We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHub, JavaScript, Slack, Vagrant, Puppet, Python, Ruby, or anything that talks about automation, and how Mac SysAdmins can incorporate good habits from developers into their professional lives.
 
 ## SPEAKERS
 
@@ -20,7 +20,7 @@ https://moosystems.com
 
 Moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
 
-## Gretchen, SysAdmin at Penn State
+## Gretchen Kuwahara, SysAdmin at Penn State, PSU MacAdmin conference organizer, MacTech speaker
 
 Speaking about Ansible.
 
