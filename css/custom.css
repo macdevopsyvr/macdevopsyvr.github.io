@@ -48,6 +48,9 @@ html, body {
 	font-family: Consolas;
 }
 
+.nav {
+}
+
 .nav a {
   color: #5a5a5a;
   font-weight: bold;
