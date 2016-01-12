@@ -20,9 +20,9 @@ https://moosystems.com
 
 Moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
 
-## Gretchen Kuwahara, SysAdmin at Penn State, PSU MacAdmin conference organizer, MacTech speaker
+## Gretchen Kuwahara, PSU 
 
-Speaking about Ansible.
+Speaking about Ansible. SysAdmin at Penn State, PSU MacAdmins conference organizer, MacTech speaker
 
 
 
