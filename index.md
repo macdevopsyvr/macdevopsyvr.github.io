@@ -16,7 +16,8 @@ We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHu
 ## SPEAKERS
 
 ## André Aulich, Moosystems 
- https://moosystems.com 
+https://moosystems.com
+
 Moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
 
 ## Gretchen, SysAdmin at Penn State
