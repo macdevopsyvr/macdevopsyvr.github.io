@@ -4,21 +4,21 @@ title: macdevopsyvr
 body_id: home
 ---
 
-# Date: June 19, 2015
+# June 16-17, 2016
 
-### We did it! MacDevOpsYVR's inaugural conference is now complete.
+#### MacDevOps:YVR is the #1 conference in the Pacific NorthWest for MacAdmins interested in integrating DevOps in their IT practice. In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
 
-#### To all our wonderful sponsors, speakers and attendees, THANK YOU for helping us put on an amazing conference.
+### Call for proposals is now open:
 
-#### We could not have done it without your enormous support!
+#### We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHub, JavaScript, Slack, Vagrant, Puppet, Python, Ruby, or anything that talks about automation, or how Mac SysAdmins can incorporate good habits from developers into their professional lives.
 
-## Special Thanks
+## SPEAKERS:
 
-##### A very special thanks to Mark Jutras and the SFU IT Services crew in Vancouver without whom this event could not have happened. Hats-off to all of you.
+### André Aulich
+#### Moosystems 
+##### https://moosystems.com, moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
 
-#### Our Volunteers, Sages and Merciful Crew...
-
-Kevin Ang, Marc Batchkus, Robert Broad, Michelle Chau, Yogesh Chhotubhai, Ariel Chiu, Matthew Chow, Mark Cohen, Andrew Culp, Chris Dawe, James Fairman, Luis Giraldo, Ryan Granholm, Jeff Hackert, Chris Jarvis, Chris Johnson, Mark Jutras, Nigel Kersten, Allan Kuan, Tahlia Lin, Sean Mauser, Scott Neal, Corey Nelson, Stephen Partridge, James Peltier, Dale Richards, James Robinson, Jody Rogers, Mohammed Saddiq, Ted Sherman, Mike Szumlinski, Nicolas Untz, Derik Whitehead, Gloria Wong, Nellie Yee
+### Gretchen, SysAdmin at Penn State, speaking about Ansible.
 
 
 
