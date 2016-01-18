@@ -14,8 +14,7 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-<img height="622" width="473"  src="/assets/Final-FinalSchedule-Prettiest.png	">
-</p>
+# Coming Soon!
 
 <p class="lead">
 

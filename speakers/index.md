@@ -22,7 +22,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
     </p>
   </div>
 </div>
-
+<!--
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/chilcote.jpg">
   <div class="responsive">
@@ -131,3 +131,4 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
     </p>
   </div>
 </div>
+-->
