@@ -14,10 +14,10 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-# Coming Soon!
+Coming Soon!
 
 <p class="lead">
 
 </p>
 
-####The list of sessions and workshops are subject to change. If there are changes we will post updates.
+The list of sessions and workshops are subject to change. If there are changes we will post updates.
