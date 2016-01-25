@@ -13,26 +13,38 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 #### Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
 <br>
 
-<!--<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/clay200.jpg">
-  <div class="responsive">
-    <h4>Clay Caviness</h4>
-    <p class="lead">
-    Clay Caviness has been a Mac and UNIX systems engineer since the early 90s and was thrilled when NeXT bought Apple. Clay currently works for Google in New York City.
-    </p>
-  </div>
-</div>
--->
-<!--
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/chilcote.jpg">
+  <img class="headshot-img" src="/assets/andre_aulich.png">
   <div class="responsive">
-    <h4>Joseph Chilcote</h4>
+    <h4>André Aulich</h4>
     <p class="lead">
-      Joseph Chilcote is a Senior Systems Engineer at Splunk. Instigator of vfuse: https://github.com/chilcote/vfuse
+    
+<a href="http://moosystems.com">Moosystems</a> develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.    
+	</p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/gretchen.jpeg">
+  <div class="responsive">
+    <h4>Gretchen Kuwahara</h4>
+    <p class="lead">
+		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.    
+	</p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/hackert.jpg">
+  <div class="responsive">
+    <h4>Jeff Hackert</h4>
+    <p class="lead">
+      
     </p>
   </div>
 </div>
+
+<!--
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">

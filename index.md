@@ -14,13 +14,26 @@ We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHu
 
 ## SPEAKERS:
 
-## André Aulich, Moosystems 
-https://moosystems.com 
-Moosystems develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/andre_aulich.png">
+  <div class="responsive">
+    <h4>André Aulich</h4>
+    <p class="lead">
+    
+<a href="http://moosystems.com">Moosystems</a> develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.    
+	</p>
+  </div>
+</div>
 
-## Gretchen Kuwahara, PSU 
-
-Speaking about Ansible. SysAdmin at Penn State, PSU MacAdmins conference organizer, MacTech speaker
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/gretchen.jpeg">
+  <div class="responsive">
+    <h4>Gretchen Kuwahara</h4>
+    <p class="lead">
+		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.    
+	</p>
+  </div>
+</div>
 
 
 
