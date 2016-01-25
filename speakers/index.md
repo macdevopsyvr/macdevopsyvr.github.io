@@ -25,7 +25,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/gretchen.png">
+  <img class="headshot-img" src="/assets/Gretchen.png">
   <div class="responsive">
     <h4>Gretchen Kuwahara</h4>
     <p class="lead">

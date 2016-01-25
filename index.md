@@ -26,7 +26,7 @@ We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHu
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/gretchen.png">
+  <img class="headshot-img" src="/assets/Gretchen.png">
   <div class="responsive">
     <h4>Gretchen Kuwahara</h4>
     <p class="lead">
