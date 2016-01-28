@@ -39,7 +39,8 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
   <div class="responsive">
     <h4>Jeff Hackert</h4>
     <p class="lead">
-      DevOps - Mindset. Jeff is the Director of Learning Experience at Chef.
+      DevOps - Mindset. 
+      Jeff is the Director of Learning Experience at Chef.
     </p>
   </div>
 </div>
