@@ -14,11 +14,11 @@ Co-chairs: Mat X and Brian Warsing
 
 ##Thanks
 
-Website: Brian Warsing
+Website: Terence Narain
 
 Marketing Ninja: Ted Sherman
 
-Brain Trust: Riley Shott, Scott Neal, 
+Brain Trust: Riley Shott, Scott Neal 
 
 Life coach: Chris Johnson
 
