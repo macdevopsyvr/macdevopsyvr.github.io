@@ -4,15 +4,15 @@ title: contacts
 body_id: contacts
 ---
 
-##Contacts
+## Contacts
 
 {% include contacts.html %}
 
-##Organizers
+## Organizers
 
 Co-chairs: Mat X and Brian Warsing
 
-##Thanks
+## Thanks
 
 Website: Terence Narain
 
