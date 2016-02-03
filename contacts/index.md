@@ -4,7 +4,7 @@ title: contacts
 body_id: contacts
 ---
 
-#Contacts
+##Contacts
 
 {% include contacts.html %}
 
