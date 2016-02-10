@@ -20,7 +20,8 @@ We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHu
     <h4>André Aulich</h4>
     <p class="lead">
     
-<a href="http://moosystems.com">Moosystems</a> develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.    
+Distributing Django web apps as double-clickable apps
+
 	</p>
   </div>
 </div>
