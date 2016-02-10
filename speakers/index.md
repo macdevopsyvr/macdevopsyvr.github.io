@@ -19,7 +19,7 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
     <h4>André Aulich</h4>
     <p class="lead">
     
-<a href="http://moosystems.com">Moosystems</a> develops Media Asset Management and Workflow Automation solutions. Hear about how they started as IT integrators and became software developers, working with Python to build applications.    
+Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. André is based in Germany where he works as software developer and consultant at <a href="moosystems.com">moosystems.com.</a>  
 	</p>
   </div>
 </div>
@@ -29,7 +29,9 @@ Speakers from throughout the Pacific Northwest will be presenting on a number of
   <div class="responsive">
     <h4>Gretchen Kuwahara</h4>
     <p class="lead">
-		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.    
+		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.</br>    
+		
+		Gretchen works at PSU and also helps organize the PSU MacAdmin conference.
 	</p>
   </div>
 </div>
