@@ -18,7 +18,7 @@ Website: Terence Narain
 
 Marketing Ninja: Ted Sherman
 
-Brain Trust: Riley Shott, Scott Neal 
+Brain Trust: David Kaneva, Wade Robson, Joe Chilcote, Shelley's Brain, Chris Dawe, Christopher Hulett, Riley Shott, Scott Neal 
 
 Life coach: Chris Johnson
 
