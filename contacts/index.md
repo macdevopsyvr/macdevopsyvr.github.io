@@ -22,5 +22,5 @@ Brain Trust: David Kaneva, Wade Robson, Joe Chilcote, Shelley's Brain, Chris Daw
 
 Life coach: Chris Johnson
 
-Awesome dude: Luis Giraldo
+Awesome dude: Ross Derewianko @ PING IDENTITY (Thanks for hosting our planning meetings!)
 
