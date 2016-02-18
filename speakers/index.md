@@ -60,6 +60,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/tim_sutton_200.jpeg">
+  <div class="responsive">
+    <h4>Tim Sutton</h4>
+    <p class="lead">
+      Tim Sutton is a Mac sysadmin at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins. http://macops.ca.
+    </p>
+  </div>
+</div>
+
 <!--
 
 <div class="col-xs-12 pull-left thumbnail">
@@ -131,15 +141,6 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/tim_sutton_200.jpeg">
-  <div class="responsive">
-    <h4>Tim Sutton</h4>
-    <p class="lead">
-      Tim Sutton is a Mac sysadmin in the Faculty of Fine Arts at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins, tries (when possible) to solve problems using code instead of labour. Blog: http://macops.ca.
-    </p>
-  </div>
-</div>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/dgj_200x200.jpg">
