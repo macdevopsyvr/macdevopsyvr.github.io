@@ -36,6 +36,16 @@ Distributing Django web apps as double-clickable apps
   </div>
 </div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/kwu240.jpg">
+  <div class="responsive">
+    <h4>Katherine Wu</h4>
+    <p class="lead">
+    Working Well With Developers (no code required).
+    </p>
+  </div>
+</div>
+
 
 
 
