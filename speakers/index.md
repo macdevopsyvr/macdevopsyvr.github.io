@@ -47,17 +47,20 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-<!--
+
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">
+  <img class="headshot-img" src="/assets/kwu240.jpg">
   <div class="responsive">
-    <h4>Mike Dodge</h4>
+    <h4>Katherine Wu</h4>
     <p class="lead">
-      Mike Dodge is a Client Platform Engineer at Facebook.
+    Working Well With Developers (no code required).
+      Kwu is a Ruby Agent software engineer at New Relic.
     </p>
   </div>
 </div>
+
+<!--
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/eigerman.jpg">
