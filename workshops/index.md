@@ -14,8 +14,17 @@ Sessions and workshops schedule
 
 <p class="lead">
 
-Coming Soon!
-
+Schedule Coming Soon!
+</p>
+<p>
+Imagr Workshop with Graham Gilbert
+</p>
+This session will introduce you to Imagr, the open source OS X deployment tool. Workshop participants will get hands on with Imagr, going from setting up the server environment to configuring Imagr and deploying an OS X machine. 
+<p>
+Packaging Django Web apps with Andre Aulich
+</p>
+<p>
+Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. The installation process will then be a simple copy to the filesystem.
 </p>
 
 The list of sessions and workshops are subject to change. If there are changes we will post updates.
