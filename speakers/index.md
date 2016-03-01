@@ -25,14 +25,12 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/Gretchen.png">
+  <img class="headshot-img" src="/assets/GrahamGilbert.jpg">
   <div class="responsive">
-    <h4>Gretchen Kuwahara</h4>
+    <h4>Graham Gilbert</h4>
     <p class="lead">
-		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.</br>    
-		
-		Gretchen works at PSU and also helps organize the PSU MacAdmin conference.
-	</p>
+      Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. 
+    </p>
   </div>
 </div>
 
@@ -47,16 +45,15 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-
-
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/kwu240.jpg">
+  <img class="headshot-img" src="/assets/Gretchen.png">
   <div class="responsive">
-    <h4>Katherine Wu</h4>
+    <h4>Gretchen Kuwahara</h4>
     <p class="lead">
-    Working Well With Developers (no code required).
-      Kwu is a Ruby Agent software engineer at New Relic.
-    </p>
+		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.</br>    
+		
+		Gretchen works at PSU and also helps organize the PSU MacAdmin conference.
+	</p>
   </div>
 </div>
 
@@ -70,17 +67,18 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-<!--
-
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/eigerman.jpg">
+  <img class="headshot-img" src="/assets/kwu240.jpg">
   <div class="responsive">
-    <h4>Edward Eigerman</h4>
+    <h4>Katherine Wu</h4>
     <p class="lead">
-      Edward Eigerman is a Macintosh System Administrator at Google.
+    Working Well With Developers (no code required).
+      Kwu is a Ruby Agent software engineer at New Relic.
     </p>
   </div>
 </div>
+
+<!--
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/keeley.jpg">
