@@ -8,14 +8,10 @@ body_id: workshops
 
 <p class="lead">
 
-Sessions and workshops schedule
+Sessions and workshops schedule coming soon
 
 </p>
 
-<p class="lead">
-
-Schedule Coming Soon!
-</p>
 <p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
@@ -27,4 +23,4 @@ This session will introduce you to Imagr, the open source OS X deployment tool. 
 Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. The installation process will then be a simple copy to the filesystem.
 </p>
 
-The list of sessions and workshops are subject to change. If there are changes we will post updates.
+<b>Note:</b> The list of sessions and workshops are subject to change. If there are changes we will post updates.
