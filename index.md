@@ -19,39 +19,8 @@ Registration is now open.
 <a href="http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=25908/" target="_blank">MacDevOps:YVR 2016</a> registration is $399 CDN Early Bird. 
 
 Price goes up to $499 CDN on April 2nd.
-## SPEAKERS:
 
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/andre_aulich.png">
-  <div class="responsive">
-    <h4>André Aulich</h4>
-    <p class="lead">
-    
-Distributing Django web apps as double-clickable apps
 
-	</p>
-  </div>
-</div>
-
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/Gretchen.png">
-  <div class="responsive">
-    <h4>Gretchen Kuwahara</h4>
-    <p class="lead">
-		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.    
-	</p>
-  </div>
-</div>
-
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/kwu240.jpg">
-  <div class="responsive">
-    <h4>Katherine Wu</h4>
-    <p class="lead">
-    Working Well With Developers (no code required).
-    </p>
-  </div>
-</div>
 
 
 
