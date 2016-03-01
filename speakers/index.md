@@ -7,7 +7,7 @@ body_id: speakers
 # Speakers
 
 <p class="lead">
-Speakers from throughout the Pacific Northwest will be presenting on a number of topics related to Mac administration and deployment.
+Speakers from across North America and Europe will be presenting on a number of topics related to Mac administration and deployment.
 </p>
 
 #### Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
