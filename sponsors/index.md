@@ -17,4 +17,11 @@ A page where we thank our wonderful and generous sponsors.
 
 # Thank you to Last year's sponsors:
 
-Quantum, Archiware, Watchman Monitoring, Vidispine and VidiXplore, Jamf, Ook
+Quantum, Archiware, Watchman Monitoring, Vidispine / VidiXplore, and Jamf
+
+<p><img src="Quantum_Logo_229x35.jpg"></p>
+<p><img src="archiware_logo_rgb_72dpi.png"></p>
+<p><img src="JAMF-Software-Blue-Logo-Print.jpg"></p>
+<p><img src="vidixplore_black550.png"></p>
+<p><img src="Watchman-Monitoring-logo-blue550.png"></p>
+<p><img src="Quantum_Logo_229x35.jpg"></p>
