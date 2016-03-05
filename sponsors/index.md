@@ -19,9 +19,9 @@ A page where we thank our wonderful and generous sponsors.
 
 Quantum, Archiware, Watchman Monitoring, Vidispine / VidiXplore, and Jamf
 
-<p><img src="assets/Quantum_Logo_229x35.jpg"></p>
-<p><img src="assets/archiware_logo_rgb_72dpi.png"></p>
-<p><img src="assets/JAMF-Software-Blue-Logo-Print.jpg"></p>
-<p><img src="assets/vidixplore_black550.png"></p>
-<p><img src="assets/Watchman-Monitoring-logo-blue550.png"></p>
-<p><img src="assets/Quantum_Logo_229x35.jpg"></p>
+<p><img src="/assets/Quantum_Logo_229x35.jpg"></p>
+<p><img src="/assets/archiware_logo_rgb_72dpi.png"></p>
+<p><img src="/assets/JAMF-Software-Blue-Logo-Print.jpg"></p>
+<p><img src="/assets/vidixplore_black550.png"></p>
+<p><img src="/assets/Watchman-Monitoring-logo-blue550.png"></p>
+<p><img src="/assets/Quantum_Logo_229x35.jpg"></p>
