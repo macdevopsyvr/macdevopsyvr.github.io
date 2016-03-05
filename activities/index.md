@@ -12,7 +12,7 @@ body_id: activities
 
 A reception with food and beverages is planned for immediately after the end of sessions on Monday afternoon. If you wish to bring a guest please let us know ahead of time to make sure we have enough for everyone.
 <p>
-<img src="IMG_8904-reception_sml.jpg"
+<img src="/assets/IMG_8904-reception_sml.jpg">
 </p>
 <h4>Sunday night meetup</h4>
 
