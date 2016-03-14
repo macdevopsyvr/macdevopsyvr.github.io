@@ -37,6 +37,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/chilcote.jpg">
+  <div class="responsive">
+    <h4>Joseph Chilcote</h4>
+    <p class="lead">
+      "Contributing to Open Source projects." Joseph is Mac IT by day. Werewolf by night.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/GrahamGilbert.jpg">
   <div class="responsive">
     <h4>Graham Gilbert</h4>
