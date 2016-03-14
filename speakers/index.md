@@ -29,13 +29,12 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Allister Banks</h4>
     <p class="lead">
-      Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. 
+     "osquery or it Didn't Happen"</br>
+
+	Allister makes podcasts for AFP548, is active in the MacAdmins Slack, and contributes to various open source projects. 
     </p>
   </div>
 </div>
-"osquery or it Didn't Happen"</br>
-
-Allister makes podcasts for AFP548, is active in the MacAdmins Slack, and contributes to various open source projects. 
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/GrahamGilbert.jpg">
