@@ -29,7 +29,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Allister Banks</h4>
     <p class="lead">
-     "osquery or it Didn't Happen"</br>
+     "osquery or it Didn't Happen". </br>
 
 	Allister makes podcasts for AFP548, is active in the MacAdmins Slack, and contributes to various open source projects. 
     </p>
