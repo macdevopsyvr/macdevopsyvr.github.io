@@ -51,7 +51,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Graham Gilbert</h4>
     <p class="lead">
-      Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. 
+      Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. Check out his <a href="http://grahamgilbert.com">blog</a>
     </p>
   </div>
 </div>
@@ -84,8 +84,8 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Tim Sutton</h4>
     <p class="lead">
-    Jenkins, and automation workflows: how to set up portable automation bots for repetitious tasks,</br>
-      Tim Sutton is a Mac sysadmin at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins. http://macops.ca.
+    Jenkins, and automation workflows: how to set up portable automation bots for repetitious tasks.</br>
+      Tim Sutton is a Mac sysadmin at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins. Check out his blog: <a href="http://macops.ca">macops.ca</a>
     </p>
   </div>
 </div>
