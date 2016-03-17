@@ -19,7 +19,7 @@ Speakers from across North America and Europe will be presenting on a number of 
     <h4>André Aulich</h4>
     <p class="lead">
     
-Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. André is based in Germany where he works as software developer and consultant at <a href="moosystems.com">moosystems.com.</a>  
+Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. André is based in Germany where he works as software developer and consultant at <a href="https://moosystems.com">moosystems</a>  
 	</p>
   </div>
 </div>
@@ -84,6 +84,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Tim Sutton</h4>
     <p class="lead">
+    Jenkins, and automation workflows: how to set up portable automation bots for repetitious tasks,</br>
       Tim Sutton is a Mac sysadmin at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins. http://macops.ca.
     </p>
   </div>
