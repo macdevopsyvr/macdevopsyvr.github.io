@@ -41,7 +41,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
     <p class="lead">
-      "Contributing to Open Source projects." Joseph is Mac IT by day. Werewolf by night.
+      "Contributing to Open Source projects." Mac IT by day. Werewolf by night.
     </p>
   </div>
 </div>
@@ -51,7 +51,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Graham Gilbert</h4>
     <p class="lead">
-      Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. Check out his <a href="http://grahamgilbert.com">blog</a>
+      "Imagr." Graham is the author of Sal, Crypt, and Imagr. He has a slight obsession with automating all of the things. Check out his <a href="http://grahamgilbert.com">blog</a>
     </p>
   </div>
 </div>
@@ -61,7 +61,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Jeff Hackert</h4>
     <p class="lead">
-      DevOps - Mindset. 
+      "New Rules for DevOps Radicals."
       Jeff is the Director of Learning Experience at Chef.
     </p>
   </div>
@@ -72,19 +72,31 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Gretchen Kuwahara</h4>
     <p class="lead">
-		Ansible - How to successfully repeat the boring stuff every time.  Minions not included.</br>    
+		"Ansible - How to successfully repeat the boring stuff every time.  Minions not included."</br>    
 		
 		Gretchen works at PSU and also helps organize the PSU MacAdmin conference.
 	</p>
   </div>
 </div>
 
+Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
+
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/tim_sutton_200.jpeg">
   <div class="responsive">
+    <h4>Spoorthy Seenapa</h4>
+    <p class="lead">
+    "Let's talk about Git!" Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
+     </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/Spoorthy_seenapa.jpg">
+  <div class="responsive">
     <h4>Tim Sutton</h4>
     <p class="lead">
-    Jenkins, and automation workflows: how to set up portable automation bots for repetitious tasks.</br>
+    "Jenkins, and automation workflows: how to set up portable automation bots for repetitious tasks."</br>
       Tim Sutton is a Mac sysadmin at Concordia University in Montreal. He also maintains a several open-source tools for Mac sysadmins. Check out his blog: <a href="http://macops.ca">macops.ca</a>
     </p>
   </div>
@@ -95,7 +107,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Katherine Wu</h4>
     <p class="lead">
-    Working Well With Developers (no code required).
+    "Working Well With Developers (no code required)."
       Kwu is a Ruby Agent software engineer at New Relic.
     </p>
   </div>
