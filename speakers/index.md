@@ -79,10 +79,8 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
-
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/tim_sutton_200.jpeg">
+  <img class="headshot-img" src="/assets/Spoorthy_seenapa.jpg">
   <div class="responsive">
     <h4>Spoorthy Seenapa</h4>
     <p class="lead">
@@ -92,7 +90,7 @@ Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/Spoorthy_seenapa.jpg">
+  <img class="headshot-img" src="/assets/tim_sutton_200.jpeg">
   <div class="responsive">
     <h4>Tim Sutton</h4>
     <p class="lead">
