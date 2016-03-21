@@ -13,6 +13,7 @@ A page where we thank our wonderful and generous sponsors.
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 <hr>
 <p>Bronze sponsors:</p>
+<b>Code42</b><img src='assets/Code42_Logo.jpg"></p>
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 
 # Thank you to Last year's sponsors:
