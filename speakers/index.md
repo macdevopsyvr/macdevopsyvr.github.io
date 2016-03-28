@@ -68,6 +68,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/keeley.jpg">
+  <div class="responsive">
+    <h4>Samuel Keeley</h4>
+    <p class="lead">
+      "AWS for Mac Admins. An overview of EC2, RDS, Route 53 and CloudFront." Samuel is a Security Engineer at Airbnb in San Francisco, focusing on endpoint security.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/Gretchen.png">
   <div class="responsive">
     <h4>Gretchen Kuwahara</h4>
@@ -112,16 +122,6 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <!--
-
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/keeley.jpg">
-  <div class="responsive">
-    <h4>Samuel Keeley</h4>
-    <p class="lead">
-      Samuel Keeley is a Site Reliability Engineer at Dropbox.
-    </p>
-  </div>
-</div>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/MichaelLynn200.png">
