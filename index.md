@@ -6,11 +6,11 @@ body_id: home
 
 # June 20-21, 2016
 
-MacDevOps:YVR is the #1 conference in the Pacific NorthWest for MacAdmins interested in integrating DevOps in their IT practice. In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
+MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
 
-### Call for proposals is now open:
+### Call for proposals is now CLOSED:
 
-We are looking for presentations on topics such as: Ansible, Chef, Docker, GitHub, JavaScript, Slack, Vagrant, Puppet, Python, Ruby, or anything that talks about automation, or how Mac SysAdmins can incorporate good habits from developers into their professional lives.
+Thank you for all of the excellent presentation proposals. A schedule for the event will be posted soon. 
 
 ## REGISTRATION:
 
