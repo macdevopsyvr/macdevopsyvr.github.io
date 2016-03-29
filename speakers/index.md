@@ -37,6 +37,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/tom_bridge.jpg">
+  <div class="responsive">
+    <h4>Tom Bridge</h4>
+    <p class="lead">
+    "Securing Munki." Tom Bridge is a founding partner at Technolutionary LLC. He lives in Washington, DC. With a cat named cat Macro.
+     </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/chilcote.jpg">
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
@@ -95,6 +105,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
     <h4>Spoorthy Seenapa</h4>
     <p class="lead">
     "Let's talk about Git!" Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
+     </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/JackStrong_BW.jpg">
+  <div class="responsive">
+    <h4>Jack-Daniyel Strong</h4>
+    <p class="lead">
+    "Munki in a Box for the Service Bench." Jack-Daniyel Strong is the President of J-D Strong Consulting, Inc. and Strong Solutions in Spokane.
      </p>
   </div>
 </div>
