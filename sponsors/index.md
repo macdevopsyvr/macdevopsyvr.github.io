@@ -14,6 +14,7 @@ A page where we thank our wonderful and generous sponsors.
 <hr>
 <p>Bronze sponsors:</p>
 <p><img src="/assets/Code42_Logo.jpg"></p>
+<p><img src="/assets/Ook_Logo-Horizontal.jpg"></p>
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 
 # Thank you to Last year's sponsors:
