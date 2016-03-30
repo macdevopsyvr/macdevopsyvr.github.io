@@ -78,6 +78,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/Elliot_Jordan.jpg">
+  <div class="responsive">
+    <h4>Elliot Jordan</h4>
+    <p class="lead">
+      "How (Not) To Do Bad Things With AutoPkg." Elliot Jordan is a senior consultant at the Linde Group in Emeryville, California. He is a member of the core AutoPkgr and Recipe Robot development teams, and maintains over 1000 public AutoPkg recipes. 
+       </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/keeley.jpg">
   <div class="responsive">
     <h4>Samuel Keeley</h4>
