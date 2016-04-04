@@ -57,6 +57,15 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/mike_dodge_218x208.jpg">
+  <div class="responsive">
+    <h4>Mike Dodge</h4>
+    <p class="lead">
+      "Advanced Chef, Made easy." Mike Dodge is a Client Platform Engineer at Facebook.
+    </p>
+  </div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/GrahamGilbert.jpg">
   <div class="responsive">
     <h4>Graham Gilbert</h4>
@@ -115,6 +124,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
     <h4>Spoorthy Seenapa</h4>
     <p class="lead">
     "Let's talk about Git!" Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
+     </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/Henry_Stamerjohann.jpg">
+  <div class="responsive">
+    <h4>Henry Stamerjohann</h4>
+    <p class="lead">
+    "Zentral: combine the power of osquery + Santa" Henry is partner at Apfelwerk, Apple specialists and JAMF Resellers in Germany. 
      </p>
   </div>
 </div>
