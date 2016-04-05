@@ -11,8 +11,11 @@ body_id: workshops
 Sessions and workshops schedule 
 
 </p>
-<img src="/assets/MacDevOpsYVR2016-Sched_v1.png">
 <p>
+<img src="/assets/MacDevOpsYVR2016-Sched_DayOne_v1.png"></p>
+<p>
+<img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v1.png">
+</p><p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
 This session will introduce you to Imagr, the open source OS X deployment tool. Workshop participants will get hands on with Imagr, going from setting up the server environment to configuring Imagr and deploying an OS X machine. 
