@@ -8,10 +8,10 @@ body_id: workshops
 
 <p class="lead">
 
-Sessions and workshops schedule coming soon
+Sessions and workshops schedule 
 
 </p>
-
+<img src="/assets/MacDevOpsYVR2016-Sched_v1.png">
 <p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
