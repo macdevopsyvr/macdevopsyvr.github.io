@@ -10,7 +10,7 @@ MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps 
 
 ### Call for proposals is now CLOSED:
 
-Thank you for all of the excellent presentation proposals. The schedule is now available. See the workshops tab. 
+Thank you for all of the excellent presentation proposals. The schedule is now available. See the workshops tab for the Day 1 and Day 2 schedules. 
 
 ## REGISTRATION:
 
@@ -18,7 +18,7 @@ Registration is now open.
 
 <a href="http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=25908" target="_blank">MacDevOps:YVR 2016</a> registration is $399 CDN Early Bird. 
 
-Early bird price extended to April 15th! Price goes up to $499 CDN on April 16nd.
+Early bird price extended to April 15th! Price goes up to $499 CDN on April 16th.
 
 
 
