@@ -8,11 +8,16 @@ body_id: workshops
 
 <p class="lead">
 
-Sessions and workshops schedule 
+Sessions and workshops schedule: Day 1
 
 </p>
 <p>
 <img src="/assets/MacDevOpsYVR2016-Sched_DayOne_v1.png"></p>
+<p class="lead">
+
+Sessions and workshops schedule: Day 2
+
+</p>
 <p>
 <img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v1.png">
 </p><p>
