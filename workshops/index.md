@@ -12,14 +12,14 @@ Sessions and workshops schedule: Day 1
 
 </p>
 <p>
-<img src="/assets/MacDevOpsYVR2016-Sched_DayOne_v1.png"></p>
+<img src="/assets/MacDevOpsYVR2016-Sched_DayOne_v2.png"></p>
 <p class="lead">
 
 Sessions and workshops schedule: Day 2
 
 </p>
 <p>
-<img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v1.png">
+<img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v2.png">
 </p><p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
