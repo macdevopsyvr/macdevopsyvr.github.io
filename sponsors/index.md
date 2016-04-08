@@ -13,7 +13,7 @@ A page where we thank our wonderful and generous sponsors.
 <p><img src="/assets/qumulo_logo.jpg"></p>
 <hr>
 <p>Bronze sponsors:</p>
-<p><img src="/assets/Code42_Logo.jpg" width="597" height="178"></p>
+<p><img src="/assets/Code42_Logo.jpg"></p>
 <p><img src="/assets/Ook_Logo-Horizontal.jpg"></p>
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 
