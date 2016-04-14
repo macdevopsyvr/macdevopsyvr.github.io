@@ -119,6 +119,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/robson.jpg">
+  <div class="responsive">
+    <h4>Wade Robson</h4>
+    <p class="lead">
+      "Munki Middleware: AWS FTW!" Working magic with Python, and wrangling macs for urthecast.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/Spoorthy_seenapa.jpg">
   <div class="responsive">
     <h4>Spoorthy Seenapa</h4>
@@ -202,15 +212,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   </div>
 </div>
 
-<div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/robson.jpg">
-  <div class="responsive">
-    <h4>Wade Robson</h4>
-    <p class="lead">
-      Wade Robson has worked for BC's largest Apple Reseller, now he's wrangling macs for urthecast
-    </p>
-  </div>
-</div>
+
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/shott.jpg">
   <div class="responsive">
