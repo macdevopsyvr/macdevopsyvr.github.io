@@ -11,11 +11,14 @@ A page where we thank our wonderful and generous sponsors.
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 <p>Silver sponsor:</p>
 <p><img src="/assets/qumulo_logo.png"></p>
+<p><img src="/assets/buddybuildlogo.jpg"></p>
+<p><img src="/assets/Ook_Logo-Horizontal.jpg"></p>
+<p><img src="/assets/Watchman-Monitoring-logo-blue550.png"></p>
 <hr>
 <p>Bronze sponsors:</p>
 <p><img src="/assets/Code42_Logo.jpg"></p>
-<p><img src="/assets/Ook_Logo-Horizontal.jpg"></p>
-<p><img src="/assets/Watchman-Monitoring-logo-blue550.png"></p>
+
+
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 
 # Thank you to Last year's sponsors:
