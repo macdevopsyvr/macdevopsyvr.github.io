@@ -8,15 +8,15 @@ body_id: sponsors
 
 A page where we thank our wonderful and generous sponsors.
 <p>Gold sponsor:</p>
-<p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
+<p><a href="http://www.archiware.com/home.1.1.html"><img src="/assets/archiware_logo_rgb_72dpi.png"></a></p>
 <p>Silver sponsor:</p>
-<p><img src="/assets/qumulo_logo.png"></p>
-<p><img src="/assets/buddybuildlogo.jpg"></p>
-<p><img src="/assets/Ook_Logo-Horizontal.jpg"></p>
-<p><img src="/assets/Watchman-Monitoring-logo-blue550.png"></p>
+<p><a href="http://qumulo.com"><img src="/assets/qumulo_logo.png"></a></p>
+<p><a href="https://buddybuild.com"><img src="/assets/buddybuildlogo.jpg"></a></p>
+<p><a href="https://ook.co"><img src="/assets/Ook_Logo-Horizontal.jpg"></a></p>
+<p><a href="https://www.watchmanmonitoring.com"><img src="/assets/Watchman-Monitoring-logo-blue550.png"></a></p>
 <hr>
 <p>Bronze sponsors:</p>
-<p><img src="/assets/Code42_Logo.jpg"></p>
+<p><a href="http://www.code42.com"><img src="/assets/Code42_Logo.jpg"></a></p>
 
 
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
