@@ -8,7 +8,7 @@ body_id: sponsors
 
 A page where we thank our wonderful and generous sponsors.
 <p>Gold sponsor:</p>
-<p><a href="http://www.archiware.com/home.1.1.html"><img src="/assets/archiware_logo_rgb_72dpi.png"></a></p>
+<p><a href="http://www.archiware.com/home.1.1.html"><img src="/assets/archiware_logo_rgb_700px-72dpi.png"></a></p>
 <p>Silver sponsor:</p>
 <p><a href="http://qumulo.com"><img src="/assets/qumulo_logo.png"></a></p>
 <p><a href="https://buddybuild.com"><img src="/assets/buddybuildlogo.jpg"></a></p>
