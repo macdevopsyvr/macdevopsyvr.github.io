@@ -28,7 +28,7 @@ Here's a short list:
 
 ## The Hotel 
 
-<p>The hotel is The Delta Vancouver Suites which is located directly across the street from SFU Harbour Centre.</p>
+The hotel is The Delta Vancouver Suites which is located directly across the street from SFU Harbour Centre.
 
 ## RESERVATIONS DUE DATE
 
