@@ -14,9 +14,11 @@ body_id: activities
 <p>And on Sunday at 4:30 PM we will be meeting at the Tap and Barrel (Convention Centre). Please R.S.V.P for this event as space is limited.
 
 If you wish to bring a guest please to either event please let us know ahead of time to make sure we have enough room for everyone.
+</p>
+<p>Tap and Barrel: 1055 Canada Place, Vancouver, BC, V6C 0C3</p>
 <p>
 <img src="/assets/BarrelRoom2.jpg">
-<img src="/assets/tap-barrel-3D.png">
+<img src="/assets/TapBarrel-CCtr-Crop.png">
 </p>
 
 
