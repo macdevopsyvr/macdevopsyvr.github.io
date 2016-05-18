@@ -25,12 +25,14 @@ Here's a short list:
 <li> Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.
 </ul>
 </p>
+<hr>
 <p>
-### The Hotel 
+
+## The Hotel 
 
 The conference hotel is The Delta Vancouver Suites which is located directly across the street from SFU Harbour Centre.
 
-#### RESERVATIONS DUE DATE
+## RESERVATIONS DUE DATE
 
 Please note that the hotel is not currently holding any suites, all reservations will be confirmed based upon availability at time of booking.
 
