@@ -18,7 +18,7 @@ A page where we thank our wonderful and generous sponsors.
 <hr>
 <p>Bronze sponsors:</p>
 <p><a href="http://www.code42.com"><img src="/assets/Code42_Logo.jpg"></a></p>
-
+<p><a href="https://www.pingidentity.com/en.html"><img src="/assets/ping320.jpg"></a></p>
 
 <p><a href="mailto:{{ site.email }}">Email us to become a sponsor!</a></p>
 
