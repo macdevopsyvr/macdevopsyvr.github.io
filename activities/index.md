@@ -17,7 +17,6 @@ If you wish to bring a guest please to either event please let us know ahead of 
 <p>
 <img src="/assets/BarrelRoom2.jpg">
 <img src="/assets/tap-barrel-3D.png">
-<img src="/assets/IMG_8904-reception_sml.jpg">
 </p>
 
 
