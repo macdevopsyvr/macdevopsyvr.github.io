@@ -26,7 +26,6 @@ Here's a short list:
 </ul>
 </p>
 <hr>
-<p>
 
 ## The Hotel 
 
@@ -45,4 +44,3 @@ Deadline for this special rate is May 19, 2016. However if our Reservations Depa
 Reservations can be made by contacting the in-house Reservations directly at either 604.689.8188 or by e-mail <a href="mailto:vancouversuites@deltahotels.com">vancouversuites@deltahotels.com</a> or by calling our Central Reservations Office at 1.888.890.3222. 
 
 Callers must mention the group name “Mac DevOps” to ensure they receive the appropriate rate and are included in the guest suite block. Requests can also be made through Delta Hotels & Resorts web page at <a href="www.deltahotels.com">www.deltahotels.com</a>. 
-</p>
