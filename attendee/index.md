@@ -15,7 +15,7 @@ We will send out an email to registered attendees before the conference with mor
 If you're in town for the first time, or you want a list of sight-seeing Go and Dos please contact the organizers for more info.
 
 Here's a short list:
-
+<p>
 <ul>
 <li> Stanley Park. And the Sea Wall.
 <li> The University of British Columbia campus (several museums and beautiful gardens)
@@ -24,7 +24,8 @@ Here's a short list:
 <li> Lynn Canyon in North Van for several nice hiking trails
 <li> Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.
 </ul>
-
+</p>
+<p>
 ### The Hotel 
 
 The conference hotel is The Delta Vancouver Suites which is located directly across the street from SFU Harbour Centre.
@@ -42,3 +43,4 @@ Deadline for this special rate is May 19, 2016. However if our Reservations Depa
 Reservations can be made by contacting the in-house Reservations directly at either 604.689.8188 or by e-mail <a href="mailto:vancouversuites@deltahotels.com">vancouversuites@deltahotels.com</a> or by calling our Central Reservations Office at 1.888.890.3222. 
 
 Callers must mention the group name “Mac DevOps” to ensure they receive the appropriate rate and are included in the guest suite block. Requests can also be made through Delta Hotels & Resorts web page at <a href="www.deltahotels.com">www.deltahotels.com</a>. 
+</p>
