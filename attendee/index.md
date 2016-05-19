@@ -41,7 +41,7 @@ The conference hotel is The Delta Vancouver Suites which is located directly acr
 </p>
 <b> RESERVATIONS DUE DATE</b>
 
-<p>Please note that the hotel is not currently holding any suites, all reservations will be confirmed based upon availability at time of booking.</p<
+<p>Please note that the hotel is not currently holding any suites, all reservations will be confirmed based upon availability at time of booking.</p>
 
 <h4>Special rate for the upgraded deluxe rooms is $234/night (Canadian)</h4>
 <p>
