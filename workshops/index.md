@@ -9,7 +9,8 @@ body_id: workshops
 <p class="lead">
 
 Sessions and workshops schedule: Day 1
-
+</p>
+<p>
 Workshop on packaging Python/Django apps with André Aulich of Moosystems.
 </p>
 <p>
@@ -17,8 +18,8 @@ Workshop on packaging Python/Django apps with André Aulich of Moosystems.
 <p class="lead">
 
 Sessions and workshops schedule: Day 2
-
-Workshop on Imagr with Graham Gilbert of AirBnB. Also Contributing to Open Source with Joseph Chilcote.
+</p>
+<p>Workshop on Imagr with Graham Gilbert of AirBnB. Also Contributing to Open Source with Joseph Chilcote.
 </p>
 <p>
 <img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v2.png">
