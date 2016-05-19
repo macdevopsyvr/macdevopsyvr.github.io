@@ -10,6 +10,14 @@ Bring your laptop. The room will be set up classroom style. There are several wo
 
 We will send out an email to registered attendees before the conference with more details.
 
+## Where To Go
+
+Sunday social is at The Tap and Barrel (Convention Centre)
+
+Monday and Tuesday conference are at SFU Harbour Centre in the Segal Centre rooms.
+
+Monday evening reception is in the same Segal Centre rooms immediately following the sessions.
+
 ## What To See
 
 If you're in town for the first time, or you want a list of sight-seeing Go and Dos please contact the organizers for more info.
