@@ -10,7 +10,7 @@ body_id: contacts
 
 ## Organizers
 
-</strong>Conference Chair:</strong> Mat X
+<strong>Conference Chair:</strong> Mat X
 
 ## Thanks
 
