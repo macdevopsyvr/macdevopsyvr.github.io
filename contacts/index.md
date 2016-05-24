@@ -10,17 +10,17 @@ body_id: contacts
 
 ## Organizers
 
-Conference Chair: Mat X
+</strong>Conference Chair:</strong> Mat X
 
 ## Thanks
 
-Website: Terence Narain
+<strong>Website:</strong> Terence Narain
 
-Marketing Ninja: Ted Sherman
+<strong>Marketing Ninja:</strong> Ted Sherman
 
-Brain Trust: Wade Robson, David Kaneva, Joe Chilcote, Mark Cohen, Scott Neal, Christopher Hulett, Luis Giraldo, Riley Shott, and Brian Warsing.
+<strong>Brain Trust:</strong> Wade Robson, David Kaneva, Joe Chilcote, Mark Cohen, Scott Neal, Christopher Hulett, Luis Giraldo, Riley Shott, and Brian Warsing.
 
-Life coach: Chris Johnson
+<strong>Life coach:</strong> Chris Johnson
 
-Awesome dude: Ross Derewianko @ PING IDENTITY (Thanks for hosting our planning meetings!)
+<strong>Awesome dude:</strong> Ross Derewianko @ PING IDENTITY (Thanks for hosting our planning meetings!)
 
