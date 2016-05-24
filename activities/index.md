@@ -11,7 +11,7 @@ body_id: activities
 
 <p>A reception with food and beverages is planned for immediately after the end of sessions on Monday afternoon.</p>
 
-<p>And on Sunday at 4:30 PM we will be meeting at the Tap and Barrel (Convention Centre). Please R.S.V.P for this event as space is limited.
+<p>On Sunday June 19 at 4:30 PM we will be meeting at the Tap and Barrel (Convention Centre). Please R.S.V.P for this event as space is limited.
 
 If you wish to bring a guest please to either event please let us know ahead of time to make sure we have enough room for everyone.
 </p>
