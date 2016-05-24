@@ -10,7 +10,7 @@ body_id: contacts
 
 ## Organizers
 
-Co-chairs: Mat X and Brian Warsing
+Conference Chair: Mat X
 
 ## Thanks
 
@@ -18,7 +18,7 @@ Website: Terence Narain
 
 Marketing Ninja: Ted Sherman
 
-Brain Trust: David Kaneva, Wade Robson, Joe Chilcote, Shelley's Brain, Chris Dawe, Christopher Hulett, Riley Shott, Scott Neal 
+Brain Trust: Wade Robson, David Kaneva, Joe Chilcote, Mark Cohen, Scott Neal, Christopher Hulett, Luis Giraldo, Riley Shott, and Brian Warsing.
 
 Life coach: Chris Johnson
 
