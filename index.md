@@ -16,7 +16,8 @@ Registration is now open.
 
 ### More information:
 
-Check out the Attendee, Activities and Workshop sections of this website.
+Check out the <a href="{{ site.baseurl }}/activities">Activities</a>,<a href="{{ site.baseurl }}/attendee"  >Attendees</a>, and <a href="{{ site.baseurl }}/workshops" >Workshops</a>
+sections of this website.
 
 {% include contacts.html %}
 
