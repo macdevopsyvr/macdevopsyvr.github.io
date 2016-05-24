@@ -6,7 +6,9 @@ body_id: home
 
 # June 20-21, 2016
 
-MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
+MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. Learn about Open Source projects in the MacDevOps community and learn how to get involved.
+
+In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
 
 ## REGISTRATION:
 
