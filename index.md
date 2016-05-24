@@ -18,11 +18,7 @@ Registration is now open.
 
 Check out the Attendee, Activities and Workshop sections of this website.
 
-Twitter: MacDevOpsYVR
-
-Slack: https://macadmins.slack.com/archives/macdevopsyvr
-
-
+{% include contacts.html %}
 
 
 
