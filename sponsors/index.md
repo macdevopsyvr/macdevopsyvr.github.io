@@ -15,6 +15,7 @@ A page where we thank our wonderful and generous sponsors.
 <p><a href="https://buddybuild.com"><img src="/assets/buddybuildlogo.jpg"></a></p>
 <p><a href="https://ook.co"><img src="/assets/Ook_Logo-Horizontal.jpg"></a></p>
 <p><a href="https://www.watchmanmonitoring.com"><img src="/assets/Watchman-Monitoring-logo-blue550.png"></a></p>
+<p><img src="/assets/vidixplore_black550.png"></p>
 <hr>
 <p>Bronze sponsors:</p>
 <p><a href="http://www.code42.com"><img src="/assets/Code42_Logo.jpg"></a></p>
