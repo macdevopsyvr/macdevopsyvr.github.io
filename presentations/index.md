@@ -16,7 +16,7 @@ Here are the presentations from the 2015 event:
       Organizer Mat X welcomes the inaugural MacDevOpsYVR attendees
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/intro/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/intro/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -29,7 +29,7 @@ Here are the presentations from the 2015 event:
       Quantum's Skip Levens shares some lessons on the importance of collaboration and the spirit of DevOps.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/skip/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/skip/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -42,7 +42,7 @@ Here are the presentations from the 2015 event:
       Brian Warsing and Riley Shott discuss the trials and tribulations of building an in-house Puppet-as-a-Service.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/mm/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/mm/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -55,7 +55,7 @@ Here are the presentations from the 2015 event:
       Wade Robson demonstrates his unique automation magic for wrangling Macs that ship with hardware-specific OS X builds.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/wade/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/wade/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -68,7 +68,7 @@ Here are the presentations from the 2015 event:
       Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/nick/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/nick/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -81,7 +81,7 @@ Here are the presentations from the 2015 event:
       Follow along with Tim Sutton as he runs down the vast list of ways Python is tailored for Mac Admins.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/tim/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/tim/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -94,7 +94,7 @@ Here are the presentations from the 2015 event:
       Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python CTypes.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/mikey/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/mikey/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -107,7 +107,7 @@ Here are the presentations from the 2015 event:
       You're not already using Munki? Greg Neagle is here to help you get rolling with his OS X package deployment system.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/greg/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/greg/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -120,7 +120,7 @@ Here are the presentations from the 2015 event:
       Now that you're a Munki expert, Sam Keeley is here to show you how to maintain your Munki repo and your sanity.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/sam/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/sam/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -133,7 +133,7 @@ Here are the presentations from the 2015 event:
       Everybody knows Google has all the Macs. Ed Eigerman and Clay Caviness are here to discuss how they keep them safe and up-to-date.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/google/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/google/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -146,7 +146,7 @@ Here are the presentations from the 2015 event:
       You use VMWare, but Joseph Chilcote is going to show you how to build VMs faster and better using vFuse.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/joe/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/joe/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -159,7 +159,7 @@ Here are the presentations from the 2015 event:
       Who does all the cooking at Facebook? It's Mike Dodge and he wants you to become a Chef as well. Here's a taste...
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/fb/Default.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2015/fb/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
