@@ -51,7 +51,7 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
     <p class="lead">
-      "Contributing to Open Source projects." Mac IT by day. Werewolf by night.
+      "Contributing to Open Source projects." Joe manages Macs at Splunk during the day, and spends his free time trying to figure out how to stash changes in git.
     </p>
   </div>
 </div>
