@@ -47,6 +47,16 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="headshot-img" src="/assets/clay200.jpg">
+  <div class="responsive">
+    <h4>Clay Caviness</h4>
+    <p class="lead">
+    "Configuration Management" Panel moderator. Clay Caviness has been a Mac and UNIX systems engineer since the early 90s. Clay currently works for Google in New York City.
+     </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/chilcote.jpg">
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
