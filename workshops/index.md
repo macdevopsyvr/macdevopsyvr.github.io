@@ -14,7 +14,7 @@ Sessions and workshops schedule: Day 1
 Workshop on packaging Python/Django apps with André Aulich of Moosystems.
 </p>
 <p>
-<img src="/assets/MacDevOpsYVR2016-Sched_DayOne_v2.png"></p>
+<img src="/assets/MDO-Sched-Final-day1_v3.png"></p>
 <p class="lead">
 
 Sessions and workshops schedule: Day 2
@@ -22,7 +22,7 @@ Sessions and workshops schedule: Day 2
 <p>Workshop on Imagr with Graham Gilbert of AirBnB. Also Contributing to Open Source with Joseph Chilcote.
 </p>
 <p>
-<img src="/assets/MacDevOpsYVR2016-Sched_DayTwo_v2.png">
+<img src="/assets/MDO-Sched-Final-day2_v3.png">
 </p><p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
