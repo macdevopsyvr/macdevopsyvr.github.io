@@ -22,9 +22,9 @@ Please make sure you have an OS X Installer from the App Store that matches your
 
 ## Where To Go
 
-Sunday social is at The Tap and Barrel (Convention Centre)
+Sunday social is at The Tap and Barrel (Convention Centre) at 5 PM (till 9 PM)
 
-Monday and Tuesday conference are at SFU Harbour Centre in the Segal Centre rooms.
+Monday and Tuesday conference are at SFU Harbour Centre in the Segal Centre rooms. Events start at 8:30 AM (breakfast at 7:30).
 
 Monday evening reception is in the same Segal Centre rooms immediately following the sessions.
 
