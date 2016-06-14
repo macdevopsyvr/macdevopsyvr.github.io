@@ -10,11 +10,13 @@ MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps 
 
 In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
 
+The event kicks off promptly at 8:30AM on Monday June 20th. (Continental breakfast service starting at 7:30AM).
+
 ## REGISTRATION:
 
-Registration is now open.
+Registration is now CLOSED.
 
-<a href="http://cars-ebmsweb.its.sfu.ca/reg/reg_p1_form.aspx?oc=05&ct=MECS-1&eventid=25908" target="_blank">MacDevOps:YVR 2016</a> registration is $499 CDN (Approximately $385 USD). 
+Contact us if you want to get on the waitlist.
 
 ### More information:
 
