@@ -8,13 +8,13 @@ body_id: attendee
 
 Bring your laptop. The room will be set up classroom style. There are several workshops which you can follow along.
 
-<strong>To participate in the André Aulich's Python web app workshop:</strong>
+<strong>To participate in André Aulich's Python web app workshop:</strong>
 
 Please make sure you have the latest Xcode installed, which you can download for free from the <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">App Store</a>. 
 
 At the time of this writing, version 7.3.1 is the latest version. Please install Xcode's command-line utilities by opening the Terminal and typing: <i>sudo xcode-select --install</i>
 
-If this is the first time you run Xcode you need to accept the license agreement first.
+If this is the first time you have run Xcode you need to accept the license agreement first.
 
 <strong>To participate in Graham Gilbert's Imagr workshop:</strong>
 
