@@ -17,7 +17,7 @@ Workshop on packaging Python/Django apps with André Aulich of Moosystems.
 Events start promptly at 8:30AM on both days.
 </p>
 <p>
-<img src="/assets/MDO-Sched-Final-day1_v4.png"></p>
+<img src="/assets/MDO-Sched-Final-day1_v5.png"></p>
 <p class="lead">
 
 Sessions and workshops schedule: Day 2
@@ -25,7 +25,7 @@ Sessions and workshops schedule: Day 2
 <p>Workshop on Imagr with Graham Gilbert of AirBnB. Also Contributing to Open Source with Joseph Chilcote.
 </p>
 <p>
-<img src="/assets/MDO-Sched-Final-day2_v4.png">
+<img src="/assets/MDO-Sched-Final-day2_v5.png">
 </p><p>
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
