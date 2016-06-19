@@ -86,17 +86,6 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/hackert.jpg">
-  <div class="responsive">
-    <h4>Jeff Hackert</h4>
-    <p class="lead">
-      "New Rules for DevOps Radicals."
-      Jeff is the Director of Learning Experience at Chef.
-    </p>
-  </div>
-</div>
-
-<div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/Elliot_Jordan.jpg">
   <div class="responsive">
     <h4>Elliot Jordan</h4>
