@@ -22,6 +22,7 @@ Please make sure you have an OS X Installer from the App Store that matches your
 
 Also, a copy of VMWare Fusion Pro is required. Install a demo copy from <a href="http://www.vmware.com/ca/en/products/fusion/fusion-evaluation.html"> the VMWare</a> site.
 
+<strong> Panel on Configuration Management </strong>
 <p>
 Graham Gilbert, Clay Caviness, Gretchen Kuwahara and Mike Dodge will be hosting a panel on Configuration Management. We welcome the input of all attendees, so please submit your questions (which we’ll put to the panel) via email or our Slack channel."
 </p>
