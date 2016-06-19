@@ -26,9 +26,10 @@ Also, a copy of VMWare Fusion Pro is required. Install a demo copy from <a href=
 <p>
 Graham Gilbert, Clay Caviness, Gretchen Kuwahara and Mike Dodge will be hosting a panel on Configuration Management. We welcome the input of all attendees, so please submit your questions (which we’ll put to the panel) via email or our Slack channel."
 </p>
+
 ## Where To Go
 
-Sunday social is at The Tap and Barrel (Convention Centre) at 5 PM (till 9 PM)
+<strong>Sunday social</strong> is at The Tap and Barrel (Convention Centre) at 5 PM (till 9 PM)
 
 Monday and Tuesday conference are at SFU Harbour Centre in the Segal Centre rooms. Events start at 8:30 AM (breakfast at 7:30).
 
