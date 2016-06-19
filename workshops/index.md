@@ -12,6 +12,8 @@ Sessions and workshops schedule: Day 1
 </p>
 <p>
 Workshop on packaging Python/Django apps with André Aulich of Moosystems.
+
+Please see the <a href="{{ site.baseurl }}/attendee">Attendees</a> page for more info on requirements for the workshop.
 </p>
 <p>
 Events start promptly at 8:30AM on both days.
@@ -30,7 +32,9 @@ Sessions and workshops schedule: Day 2
 <h2>Imagr Workshop with Graham Gilbert</h2>
 </p>
 This session will introduce you to Imagr, the open source OS X deployment tool. Workshop participants will get hands on with Imagr, going from setting up the server environment to configuring Imagr and deploying an OS X machine. 
+</p>
 <p>
+Please see the <a href="{{ site.baseurl }}/attendee">Attendees</a> page for more info on requirements for the workshop.<p>
 <h2>Packaging Django Web apps with Andre Aulich</h2>
 </p>
 <p>
