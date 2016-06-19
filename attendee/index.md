@@ -20,6 +20,9 @@ If this is the first time you have run Xcode you need to accept the license agre
 
 Please make sure you have an OS X Installer from the App Store that matches your current running OS.
 
+Also, a copy of VMWare Fusion Pro is required. Install a demo copy from <a href="http://www.vmware.com/ca/en/products/fusion/fusion-evaluation.html"> the VMWare</a> site.
+
+
 ## Where To Go
 
 Sunday social is at The Tap and Barrel (Convention Centre) at 5 PM (till 9 PM)
