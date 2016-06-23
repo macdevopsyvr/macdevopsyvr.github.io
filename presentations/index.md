@@ -16,7 +16,7 @@ Here are the presentations from the 2016 event:
       Mike Dodge from FaceBook tackles Advanced Chef
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/chef/Default.html.html">Watch the Video</a>
+      <a href="http://macdevops.ca/MDO2016/chef/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -61,7 +61,7 @@ Here are the presentations from the 2016 event:
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/vid_thumbs/nick.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/elliot.png">
   <div class="responsive">
     <h4 style="display:inline">Quick Talk: Robot</h4>
     <p>
