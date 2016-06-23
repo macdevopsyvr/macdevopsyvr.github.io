@@ -86,6 +86,32 @@ Here are the presentations from the 2016 event:
   </div>
 </div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/allister.png">
+  <div class="responsive">
+    <h4>osquery</h4>
+    <p>
+      Learn Japanese from Allister and pick up osquery along the way.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2016/osquery/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/henry.png">
+  <div class="responsive">
+    <h4>Zentral</h4>
+    <p>
+      Henry Stamerjohann takes us through Zentral's unique use of osquery and Santa.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2016/zentral/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
 Here are the presentations from the 2015 event:
 
 <div class="col-xs-12 pull-left thumbnail">
