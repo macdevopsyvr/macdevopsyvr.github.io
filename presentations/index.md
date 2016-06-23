@@ -52,7 +52,7 @@ Here are the presentations from the 2016 event:
   <div class="responsive">
     <h4>Autopkg Bad things</h4>
     <p>
-      Line Group's Elliot Jordan on How not to bad things with Autopkg
+      Linde Group's Elliot Jordan on How not to bad things with Autopkg
     </p>
     <p class="lead">
       <a href="http://macdevops.ca/MDO2016/autopkg/Default.html">Watch the Video</a>
