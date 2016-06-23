@@ -8,15 +8,11 @@ body_id: home
 
 MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. Learn about Open Source projects in the MacDevOps community and find out how to get involved.
 
-In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. This year we are expanding to two days and we want you there with us.
-
-The event kicks off promptly at 8:30AM on Monday June 20th. (Continental breakfast service starting at 7:30AM).
+In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. And in 2016, we had 16 talks, 2 workshops, 1 panel and 19 speakers.
 
 ## REGISTRATION:
 
-Registration is now CLOSED.
-
-Contact us if you want to get on the waitlist.
+Registration for 2017 is not open yet. Please be patient and we will update you when the new dates are known.
 
 ### More information:
 
