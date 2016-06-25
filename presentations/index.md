@@ -122,7 +122,7 @@ Here are the presentations from the 2016 event, Day 2:
       Quick Talk: Allister's takes the stage again to explain Santa in less than 10 minutes.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/osquery/Default.html">Watch the Video</a>
+      <a href="http://matx.ca/mdoyvr/2016/mdoyvr2016/day2/santa/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
