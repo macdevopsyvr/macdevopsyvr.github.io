@@ -6,7 +6,7 @@ body_id: presentations
 
 # Presentations
 
-Here are the presentations from the 2016 event:
+Here are the presentations from the 2016 event, Day 1:
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
@@ -108,6 +108,21 @@ Here are the presentations from the 2016 event:
     </p>
     <p class="lead">
       <a href="http://macdevops.ca/MDO2016/zentral/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+Here are the presentations from the 2016 event, Day 2:
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/allister.png">
+  <div class="responsive">
+    <h4>Quick Talk: Santa</h4>
+    <p>
+      Quick Talk: Allister's takes the stage again to explain Santa in less than 10 minutes.
+    </p>
+    <p class="lead">
+      <a href="http://macdevops.ca/MDO2016/osquery/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
