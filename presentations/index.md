@@ -127,6 +127,19 @@ Here are the presentations from the 2016 event, Day 2:
   </div>
 </div>
 
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/kwu.png">
+  <div class="responsive">
+    <h4>Working Well with Devs</h4>
+    <p>
+      New Relic's Katherine Wu on "Working Well With Developers (no code required)."
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/kwu/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
 Here are the presentations from the 2015 event:
 
 <div class="col-xs-12 pull-left thumbnail">
