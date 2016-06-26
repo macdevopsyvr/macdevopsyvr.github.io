@@ -115,14 +115,14 @@ Here are the presentations from the 2016 event, Day 1:
 Here are the presentations from the 2016 event, Day 2:
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/vid_thumbs/allister.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/matx.png">
   <div class="responsive">
-    <h4>Quick Talk: Santa</h4>
+    <h4>Day 2 Intro: Mat X</h4>
     <p>
-      Quick Talk: Allister's takes the stage again to explain Santa in less than 10 minutes.
+      Mat X thanks Archiware and Watchman Monitoring and talks about coding his P5 plugins
     </p>
     <p class="lead">
-      <a href="http://matx.ca/mdoyvr/2016/day2/santa/Default.html">Watch the Video</a>
+      <a href="http://matx.ca/mdoyvr/2016/day2/archiware/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -136,6 +136,111 @@ Here are the presentations from the 2016 event, Day 2:
     </p>
     <p class="lead">
       <a href="http://matx.ca/mdoyvr/2016/day2/kwu/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/spoorthy2.png">
+  <div class="responsive">
+    <h4>Intro to Git</h4>
+    <p>
+      Ping Identity's dev super hero Spoorthy Seenepa talks about Git
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/git/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/joe2.png">
+  <div class="responsive">
+    <h4>Open Source Software</h4>
+    <p>
+      Splunk's Joe Chilcote shows us how to Contribute to Open Source software
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/github/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/jd.png">
+  <div class="responsive">
+    <h4>Munki in a Box</h4>
+    <p>
+      Watchman's newest employee JD talks Munki in a Box for the Service Bench
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/munkiservice/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/tom.png">
+  <div class="responsive">
+    <h4>Securing Munki</h4>
+    <p>
+      Project lead on Munki in a Box, Tom Bridge, delves into Securing Munki
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/munkisecure/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/wade2.png">
+  <div class="responsive">
+    <h4>Munki Middleware</h4>
+    <p>
+      Munki in the middle! Wade Robson takes us through his exciting journey to the clouds.
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/munkimiddleware/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/clay2.png">
+  <div class="responsive">
+    <h4>Quick Talk: Grr Rapid Response</h4>
+    <p>
+      Quick Talk: Google's Clay Caviness tackles Grr Rapid Response
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/grr/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/configpanel.png">
+  <div class="responsive">
+    <h4>Panel: Configuration Management</h4>
+    <p>
+      Panel: Configuration Management - Puppet, Chef and more. Discuss! 
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/configmgmt/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/allister.png">
+  <div class="responsive">
+    <h4>Quick Talk: Santa</h4>
+    <p>
+      Quick Talk: Allister's takes the stage again to explain Santa in less than 10 minutes.
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/santa/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
