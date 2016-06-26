@@ -128,11 +128,11 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="headshot-img" src="/assets/Spoorthy_seenapa.jpg">
+  <img class="headshot-img" src="/assets/Spoorthy_seenappa.jpg">
   <div class="responsive">
     <h4>Spoorthy Seenapa</h4>
     <p class="lead">
-    "Let's talk about Git!" Spoorthy is a Developer hero at Ping Identity. She lives and breathes code.
+    "Let's talk about Git!" Spoorthy Seenappa is a Developer hero at Ping Identity. She lives and breathes code.
      </p>
   </div>
 </div>

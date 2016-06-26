@@ -145,7 +145,7 @@ Here are the presentations from the 2016 event, Day 2:
   <div class="responsive">
     <h4>Intro to Git</h4>
     <p>
-      Ping Identity's dev super hero Spoorthy Seenepa talks about Git
+      Ping Identity's dev super hero Spoorthy Seeneppa talks about Git
     </p>
     <p class="lead">
       <a href="http://matx.ca/mdoyvr/2016/day2/git/Default.html">Watch the Video</a>
