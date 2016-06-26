@@ -206,6 +206,19 @@ Here are the presentations from the 2016 event, Day 2:
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/sam2.png">
+  <div class="responsive">
+    <h4>AWS for Mac Admins</h4>
+    <p>
+      Airbnb's Sam Keeley dives into AWS for Mac Admins. And Macadamia nuts.
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/aws/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/clay2.png">
   <div class="responsive">
     <h4>Quick Talk: Grr Rapid Response</h4>
