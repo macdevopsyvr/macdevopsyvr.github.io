@@ -6,7 +6,7 @@ body_id: presentations
 
 # Presentations
 
-Here are the presentations from the 2016 event, Day 1:
+<h1>Here are the presentations from the 2016 event, Day 1:</h1>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
@@ -112,7 +112,7 @@ Here are the presentations from the 2016 event, Day 1:
   </div>
 </div>
 
-Here are the presentations from the 2016 event, Day 2:
+<h1>Here are the presentations from the 2016 event, Day 2:</h1>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/matx.png">
@@ -258,7 +258,7 @@ Here are the presentations from the 2016 event, Day 2:
   </div>
 </div>
 
-Here are the presentations from the 2015 event:
+<h2>Here are the presentations from the 2015 event:</h2>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/intro.png">
