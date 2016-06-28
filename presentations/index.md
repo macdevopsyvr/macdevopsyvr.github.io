@@ -4,9 +4,9 @@ title: presentations
 body_id: presentations
 ---
 
-# Presentations
+# MacDevOps:YVR 2015-2016 Presentations
 
-<h1>Here are the presentations from the 2016 event, Day 1:</h1>
+<h2>Here are the presentations from the 2016 event, Day 1:</h2>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
@@ -112,7 +112,7 @@ body_id: presentations
   </div>
 </div>
 
-<h1>Here are the presentations from the 2016 event, Day 2:</h1>
+<h2>Here are the presentations from the 2016 event, Day 2:</h2>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/matx.png">
