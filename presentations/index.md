@@ -6,7 +6,7 @@ body_id: presentations
 
 # MacDevOps:YVR 2015-2016 Presentations
 
-<h2>Here are the presentations from the 2016 event, Day 1:</h2>
+<h2>2016 event, Day 1:</h2>
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
