@@ -61,6 +61,21 @@ body_id: presentations
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/andre.png">
+  <div class="responsive">
+    <h4>Automation with Ansible</h4>
+    <p>
+      Workshop: Build Django web apps with Andre Aulich from moosystems
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day1/django/Default.html">Watch the Video</a>
+    </p>
+    <p>
+    <a href="https://moosystems.com/articles/14-distribute-django-app-as-native-desktop-app-01.html">Read the step by step instructions</a>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/elliot.png">
   <div class="responsive">
     <h4>Autopkg Bad things</h4>
