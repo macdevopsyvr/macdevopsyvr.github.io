@@ -9,6 +9,19 @@ body_id: presentations
 <h2>2016 event, Day 1:</h2>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/matx.png">
+  <div class="responsive">
+    <h4>Day 1 Intro: Mat X</h4>
+    <p>
+      Mat X thanks the awesome sponsors and welcomes speakers and attendees to the 2nd MacDevOps:YVR conference
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day1/MatX_intro/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/mike.png">
   <div class="responsive">
     <h4>Advanced Chef</h4>
