@@ -198,9 +198,9 @@ body_id: presentations
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/gilbert.png">
   <div class="responsive">
-    <h4>Workshop: Imagr</h4>
+    <h4>Imagr</h4>
     <p>
-      Airbnb's Graham Gilbert's walks up through the setup for Imagr
+      Workshop: Airbnb's Graham Gilbert walks up through the setup for Imagr
     </p>
     <p class="lead">
       <a href="http://matx.ca/mdoyvr/2016/day2/imagr/Default.html">Watch the Video</a>
