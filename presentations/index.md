@@ -196,7 +196,7 @@ body_id: presentations
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/vid_thumbs/GrahamGilbert.png">
+  <img class="vid-thumb" src="/assets/vid_thumbs/GrahamGilbert.jpg">
   <div class="responsive">
     <h4>Workshop: Imagr</h4>
     <p>
