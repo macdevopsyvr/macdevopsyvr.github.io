@@ -196,6 +196,19 @@ body_id: presentations
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/GrahamGilbert.png">
+  <div class="responsive">
+    <h4>Workshop: Imagr</h4>
+    <p>
+      Airbnb's Graham Gilbert's walks up through the setup for Imagr
+    </p>
+    <p class="lead">
+      <a href="http://matx.ca/mdoyvr/2016/day2/imagr/Default.html">Watch the Video</a>
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/vid_thumbs/jd.png">
   <div class="responsive">
     <h4>Munki in a Box</h4>
