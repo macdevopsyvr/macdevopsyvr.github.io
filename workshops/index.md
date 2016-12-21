@@ -8,41 +8,16 @@ body_id: workshops
 
 <p class="lead">
 
-Sessions and workshops schedule: Day 1
+Sessions and workshops schedule
 </p>
 <p>
-Workshop on packaging Python/Django apps with André Aulich of Moosystems.
+Stay tuned for more information. We will update in 2017.
 
-Please see the <a href="{{ site.baseurl }}/attendee">Attendees</a> page for more info on requirements for the workshop.
+Please see the <a href="{{ site.baseurl }}/attendee">Attendees</a> page for more info on workshop requirements.
 </p>
 <p>
 Events start promptly at 8:30AM on both days.
 </p>
-<p>
-<img src="/assets/MDO-Sched-Final-day1_v5.png"></p>
-<p class="lead">
 
-Sessions and workshops schedule: Day 2
-</p>
-<p>Workshop on Imagr with Graham Gilbert of AirBnB. Also Contributing to Open Source with Joseph Chilcote.
-</p>
-<p>
-<img src="/assets/MDO-Sched-Final-day2_v5.png">
-</p><p>
-<h2>Imagr Workshop with Graham Gilbert</h2>
-</p>
-This session will introduce you to Imagr, the open source OS X deployment tool. Workshop participants will get hands on with Imagr, going from setting up the server environment to configuring Imagr and deploying an OS X machine. 
-</p>
-<p>
-Please see the <a href="{{ site.baseurl }}/attendee">Attendees</a> page for more info on requirements for the workshop.<p>
-<h2>Packaging Django Web apps with Andre Aulich</h2>
-</p>
-<p>
-Learn how to package a Python/Django web app as a native OS X, Windows or Linux application. The installation process will then be a simple copy to the filesystem.
-</p>
-<p>
-<h2>Contributing to Open Source with Joseph Chilcote</h2>
-</p>
-This session will have an interactive demo. Attendees will learn how to fork a repo and make a pull request. 
 
 <b>Note:</b> The list of sessions and workshops are subject to change. If there are changes we will post updates.
