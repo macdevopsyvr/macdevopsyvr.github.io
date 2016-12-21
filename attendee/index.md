@@ -8,32 +8,11 @@ body_id: attendee
 
 Bring your laptop. The room will be set up classroom style. There are several workshops which you can follow along.
 
-<strong>To participate in André Aulich's Python web app workshop:</strong>
-
-Please make sure you have the latest Xcode installed, which you can download for free from the <a href="https://itunes.apple.com/us/app/xcode/id497799835?mt=12">App Store</a>. 
-
-At the time of this writing, version 7.3.1 is the latest version. Please install Xcode's command-line utilities by opening the Terminal and typing: <i>sudo xcode-select --install</i>
-
-If this is the first time you have run Xcode you need to accept the license agreement first.
-
-<strong>To participate in Graham Gilbert's Imagr workshop:</strong>
-
-Please make sure you have an OS X Installer from the App Store that matches your current running OS.
-
-Also, a copy of VMWare Fusion Pro is required. Install a demo copy from <a href="http://www.vmware.com/ca/en/products/fusion/fusion-evaluation.html"> the VMWare</a> site.
-
-<strong> Panel on Configuration Management </strong>
-<p>
-Graham Gilbert, Clay Caviness, Gretchen Kuwahara and Mike Dodge will be hosting a panel on Configuration Management. We welcome the input of all attendees, so please submit your questions (which we’ll put to the panel) via email or our Slack channel."
-</p>
 
 ## Where To Go
 
-<strong>Sunday social</strong> is at The Tap and Barrel (Convention Centre) at 5 PM (till 9 PM)
+<strong>2016 Sunday social</strong> was at The Tap and Barrel (Convention Centre) 
 
-Monday and Tuesday conference are at SFU Harbour Centre in the Segal Centre rooms. Events start at 8:30 AM (breakfast at 7:30).
-
-Monday evening reception is in the same Segal Centre rooms immediately following the sessions.
 
 ## What To See
 
@@ -60,7 +39,7 @@ The conference hotel is The Delta Vancouver Suites which is located directly acr
 
 <p>Please note that the hotel is not currently holding any suites, all reservations will be confirmed based upon availability at time of booking.</p>
 
-<h4>Special rate for the upgraded deluxe rooms is $234/night (Canadian)</h4>
+<h4>2016 Special rate for the upgraded deluxe rooms is $234/night (Canadian)</h4>
 <p>
 Deadline for this special rate is May 19, 2016. However if our Reservations Department receives suite requests after May 19, 2016, the rate will be honoured on an availability basis.</p>
 
