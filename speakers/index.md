@@ -4,7 +4,7 @@ title: speakers
 body_id: speakers
 ---
 
-# Speakers
+# Speaker list from 2016. Stay tuned for 2017.
 
 <p class="lead">
 Speakers from across North America and Europe will be presenting on a number of topics related to Mac administration and deployment.
