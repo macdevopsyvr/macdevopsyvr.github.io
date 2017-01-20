@@ -14,10 +14,13 @@ In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sha
 
 Registration for 2017 is not open yet. Please be patient and we will update you when we are ready.
 
-### Hack Night!
+## CALL FOR PROPOSALS
 
-On Nov. 30th we are having a Hack Night hosted at the Urthecast office. 
+We are accepting proposals for quick talks (5-15min) and longer sessions (30-45 min).
 
+Topics in past years have been: configuration management, automation, DevOps, cloud, programming, source control, and introductions to various Open Source projects.
+
+Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, AutoPkgr, osquery, Santa, Zentral, vFuse, Git, GitHub, imagr, python, Django, Recipe Robot, Jenkins CI, Grr, AWS, and more.
 
 
 
