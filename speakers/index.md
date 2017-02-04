@@ -4,7 +4,7 @@ title: speakers
 body_id: speakers
 ---
 
-# Speaker list from 2016. Stay tuned for 2017.
+# Stay tuned for 2017 speaker list.
 
 <p class="lead">
 Speakers from across North America and Europe will be presenting on a number of topics related to Mac administration and deployment.
@@ -12,7 +12,7 @@ Speakers from across North America and Europe will be presenting on a number of 
 
 #### Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
 <br>
-
+<!--
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/andre_aulich.png">
   <div class="responsive">
@@ -178,8 +178,6 @@ Learn how to package a Python/Django web app as a native OS X, Windows or Linux 
     </p>
   </div>
 </div>
-
-<!--
 
 <div class="col-xs-12 pull-left thumbnail">
   <img class="headshot-img" src="/assets/MichaelLynn200.png">
