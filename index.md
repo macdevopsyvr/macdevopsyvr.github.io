@@ -19,7 +19,6 @@ Early bird is $265 CDN (+fees + tax) for two days.
 There are a limited amount of tickets for the early bird, sign up now. When these tickets sell out the regular price will be $465
 
 
-
 ## CALL FOR PROPOSALS
 
 We are accepting proposals for quick talks (5-15min) and longer sessions (30-45 min).
@@ -29,4 +28,19 @@ Topics in past years have been: configuration management, automation, DevOps, cl
 Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, AutoPkgr, osquery, Santa, Zentral, vFuse, Git, GitHub, imagr, python, Django, Recipe Robot, Jenkins CI, Grr, AWS, and more.
 
 
+## KEYNOTE SPEAKERS ##
 
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/vid_thumbs/intro.png">
+  <div class="responsive">
+    <h4>Michael Lynn</h4>
+    <p>
+      Mac-narök: The end times of our workflows are upon us. Be prepared. 
+    </p>
+    <p class="lead">
+      <img src="assets/Mike_Lynn_frogor_headshot.png>
+      Mike Lynn is a Client Platform Engineer at Dropbox in Seattle, Washington. He is obsessed with python and macOS
+    </p>
+  </div>
+</div>
