@@ -19,14 +19,6 @@ Early bird is $265 CDN (+fees + tax) for two days.
 There are a limited amount of tickets for the early bird, sign up now. When these tickets sell out the regular price will be $465
 
 
-## CALL FOR PROPOSALS
-
-We are accepting proposals for quick talks (5-15min) and longer sessions (30-45 min).
-
-Topics in past years have been: configuration management, automation, DevOps, cloud, programming, source control, and introductions to various Open Source projects.
-
-Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, AutoPkgr, osquery, Santa, Zentral, vFuse, Git, GitHub, imagr, python, Django, Recipe Robot, Jenkins CI, Grr, AWS, and more.
-
 
 ## KEYNOTE SPEAKERS ##
 
@@ -43,3 +35,24 @@ Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, Aut
     </p>
   </div>
 </div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/Joel-Rennich_headshot.jpg">
+  <div class="responsive">
+    <h4>Joel Rennich</h4>
+    <p>
+      Privilege Safety Dance - Leverage NoMAD to provide admin privileges to non-admins without any directory services. While still keeping safe with off-box authentication and logging.
+    </p>
+    <p class="lead">
+      Joel is the General Manager for Trusource Labs Enterprise Services in Austin, Texas providing Apple device management and help desk to customers around the globe. Previously he was an Enterprise Systems Engineering Manager at Apple doing all kinds of fun things with lots of cool people and solving crazy problems to allow for integrating Macs and iOS devices into enterprise environments.
+    </p>
+  </div>
+</div>
+
+## CALL FOR PROPOSALS
+
+We are accepting proposals for quick talks (5-15min) and longer sessions (30-45 min).
+
+Topics in past years have been: configuration management, automation, DevOps, cloud, programming, source control, and introductions to various Open Source projects.
+
+Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, AutoPkgr, osquery, Santa, Zentral, vFuse, Git, GitHub, imagr, python, Django, Recipe Robot, Jenkins CI, Grr, AWS, and more.
