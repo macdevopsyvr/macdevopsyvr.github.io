@@ -32,14 +32,13 @@ Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, Aut
 
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/vid_thumbs/intro.png">
+  <img class="vid-thumb" src="/assets/Mike_Lynn_frogor_headshot.png">
   <div class="responsive">
     <h4>Michael Lynn</h4>
     <p>
       Mac-narök: The end times of our workflows are upon us. Be prepared. 
     </p>
     <p class="lead">
-      <img src="assets/Mike_Lynn_frogor_headshot.png>
       Mike Lynn is a Client Platform Engineer at Dropbox in Seattle, Washington. He is obsessed with python and macOS
     </p>
   </div>
