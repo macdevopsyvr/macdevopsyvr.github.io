@@ -44,15 +44,8 @@ There are a limited amount of tickets for the early bird, sign up now. When thes
       Privilege Safety Dance - Leverage NoMAD to provide admin privileges to non-admins without any directory services. While still keeping safe with off-box authentication and logging.
     </p>
     <p class="lead">
-      Joel is the General Manager for Trusource Labs Enterprise Services in Austin, Texas providing Apple device management and help desk to customers around the globe. Previously he was an Enterprise Systems Engineering Manager at Apple doing all kinds of fun things with lots of cool people and solving crazy problems to allow for integrating Macs and iOS devices into enterprise environments.
+      Joel is the General Manager for Trusource Labs Enterprise Services in Austin, Texas. Previously he was an Enterprise Systems Engineering Manager at Apple.
     </p>
   </div>
 </div>
 
-## CALL FOR PROPOSALS
-
-We are accepting proposals for quick talks (5-15min) and longer sessions (30-45 min).
-
-Topics in past years have been: configuration management, automation, DevOps, cloud, programming, source control, and introductions to various Open Source projects.
-
-Past speakers have discussed: Ansible, Chef, Puppet, Docker, Munki, autopkg, AutoPkgr, osquery, Santa, Zentral, vFuse, Git, GitHub, imagr, python, Django, Recipe Robot, Jenkins CI, Grr, AWS, and more.
