@@ -26,11 +26,12 @@ Here's a short list:
 <li> English Bay and The West End. Beaches. Nough said.
 <li> Capilano Suspension bridge in North Vancouver.
 <li> Lynn Canyon in North Van for several nice hiking trails
-<li> Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.
+<li> Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station. 
 </ul>
 </p>
 <hr>
+### HOTEL ###
 
-<h3> The Hotel </h3>
+<h3> The Marriott Hotel (aka Delta Vancouver Suites) </h3>
 <p>
-At this time there is no room block with any hotel. </p>
+<a href="http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/"> Book your hotel</a> for 4 nights and get a discounted rate of $219/CDN. Use the code EYK. Book June 3rd for four nights.</p>
