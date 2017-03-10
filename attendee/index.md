@@ -20,15 +20,12 @@ If you're in town for the first time, or you want a list of sight-seeing Go and 
 
 Here's a short list:
 
-<ul>
-<li> Stanley Park. And the Sea Wall.
-<li> The University of British Columbia campus (several museums and beautiful gardens)
-<li> English Bay and The West End. Beaches. Nough said.
-<li> Capilano Suspension bridge in North Vancouver.
-<li> Lynn Canyon in North Van for several nice hiking trails
-<li> Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.</ul>
-
-## HOTEL
+- Stanley Park. And the Sea Wall.
+- The University of British Columbia campus (several museums and beautiful gardens)
+- English Bay and The West End. Beaches. Nough said.
+- Capilano Suspension bridge in North Vancouver.
+- Lynn Canyon in North Van for several nice hiking trails
+- Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.
 
 <h3> The Marriott Hotel (aka Delta Vancouver Suites) </h3>
 <p>
