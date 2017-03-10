@@ -49,3 +49,4 @@ There are a limited amount of tickets for the early bird, sign up now. When thes
   </div>
 </div>
 
+# Stay tuned for updates by subscribing to our [Twitter](https://twitter.com/intent/follow?&screen_name=MacDevOpsYVR) feed!
