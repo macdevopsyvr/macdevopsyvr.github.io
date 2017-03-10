@@ -40,7 +40,7 @@ body_id: speakers
       Demystifying MDM: open source endeavours to manage Macs
     </p>
     <p class="lead">
-      Victor Vrantchan aka Groob aka wikiwalk is Mac/Linux admin. Go enthusiast. Building services for managing Apple devices in enterprise/edu environments. </p>
+      Victor Vrantchan is a DevOps engineer at Kolide. He loves creating macadmin tools with Go, and experimenting with the MDM protocol. </p>
   </div>
 </div>
 
