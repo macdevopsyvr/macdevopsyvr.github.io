@@ -8,13 +8,13 @@ body_id: home
 
 MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. Learn about Open Source projects in the MacDevOps community and find out how to get involved.
 
-In 2015, we packed 11 sessions and 14 speakers in a full day of learning and sharing. And in 2016, we had 16 talks, 2 workshops, 1 panel and 19 speakers.
+Join us for two days of sessions with continental breakfast, lunch, snacks and coffee included. 
 
 ## REGISTRATION:
 
-Register <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">NOW</a>. Early bird is $265 CDN (+fees + tax) for two days of sessions with continental breakfast, lunch, snacks and coffee included.
+Register <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Early bird tickets</a>: $265 CDN (+ fees + tax).
 
-There are a limited amount of tickets for the early bird, sign up now. When these tickets sell out the regular price will be $465
+There are a limited amount of tickets for the early bird, and when these tickets sell out the regular price will be $465.
 
 
 
