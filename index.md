@@ -12,7 +12,7 @@ Join us for two days of sessions with continental breakfast, lunch, snacks and c
 
 ## REGISTRATION:
 
-Register <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Early bird tickets</a>: $265 CDN (+ fees + tax).
+Get your <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">early bird tickets</a>: $265 CDN (+ fees + tax).
 
 There are a limited amount of tickets for the early bird, and when these tickets sell out the regular price will be $465.
 
