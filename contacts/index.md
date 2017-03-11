@@ -12,15 +12,12 @@ body_id: contacts
 
 <strong>Conference Chair:</strong> Mat X
 
-## Thanks
+## The Team
 
 <strong>Website:</strong> Terence Narain
 
 <strong>Marketing Ninja:</strong> Ted Sherman
 
-<strong>Brain Trust:</strong> Wade Robson, David Kaneva, Joe Chilcote, Mark Cohen, Scott Neal, Christopher Hulett, Luis Giraldo, Riley Shott, and Brian Warsing.
+<strong>Brain Trust:</strong> Tian Zhang, Wade Robson, Andrew Ball, David Kaneva, Kendrick Lawless, Sean Mauser, Riley Shott, and Brian Warsing.
 
 <strong>Life coach:</strong> Chris Johnson
-
-<strong>Awesome dude:</strong> Ross Derewianko @ PING IDENTITY (Thanks for hosting our planning meetings!)
-
