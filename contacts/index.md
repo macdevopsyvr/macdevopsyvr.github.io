@@ -8,11 +8,9 @@ body_id: contacts
 
 {% include contacts.html %}
 
-## Organizers
+## Organizers:
 
 <strong>Conference Chair:</strong> Mat X
-
-## The Team
 
 <strong>Website:</strong> Terence Narain
 
