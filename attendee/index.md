@@ -8,7 +8,9 @@ body_id: attendee
 
 Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
 
-Participants and spectators welcome. Refreshments provided.
+Hackathon. Join a team. Watch the coding fun. Cheer your favourite projects with every line of code.
+
+Refreshments provided.
 
 <img src="/assets/Hackathon-MacDevOpsYVR-June5-6-2017.png">
 
