@@ -12,10 +12,9 @@ Participants and spectators welcome. Refreshments provided.
 
 <img src="/assets/Hackathon-MacDevOpsYVR-June5-6-2017.png">
 
-## Where To Go
+## Sunday social on June 4th, 2017
 
-<strong>2016 Sunday social</strong> was at The Tap and Barrel (Convention Centre) 
-
+Pre-conf meetup at The Tap and Barrel (Convention Centre) 
 
 ## What To See
 
