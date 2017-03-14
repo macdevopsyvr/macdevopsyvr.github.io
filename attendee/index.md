@@ -4,7 +4,7 @@ title: attendee
 body_id: attendee
 ---
 
-## Hackathon. Monday June 5th
+## Monday Hackathon on June 5th, 2017
 
 Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
 
