@@ -4,10 +4,13 @@ title: attendee
 body_id: attendee
 ---
 
-## What To Bring
+## Hackathon. Monday June 5th
 
-Bring your laptop. The room will be set up classroom style. There are several workshops which you can follow along.
+Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
 
+Participants and spectators welcome. Refreshments provided.
+
+<img src="/assets/Hackathon-MacDevOpsYVR-June5-6-2017.png">
 
 ## Where To Go
 
