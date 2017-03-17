@@ -18,7 +18,7 @@ Refreshments provided.
 <h3>Pre-conf meetup on Sunday June 4th, 2017</h3>
 
 
-<p><b>MacDevOps:YVR 2017</b> we are meeting up before the conference on Sunday June 4th at 5pm at the Tap and Barrel (Convention Centre). 
+<p><b>MacDevOps:YVR 2017</b> we are meeting up before the conference on Sunday June 4th at 5pm at the Tap and Barrel (Convention Centre). </p>
 
 Space is very limited. There will be a link to the free tickets soon to RSVP. Stay tuned.
 
@@ -29,5 +29,3 @@ Space is very limited. There will be a link to the free tickets soon to RSVP. St
 <p><img src="/assets/BarrelRoom1.jpg"></p>
 <p><img src="/assets/TapBarrel-CCtr-Crop.png">
 </p>
-
-
