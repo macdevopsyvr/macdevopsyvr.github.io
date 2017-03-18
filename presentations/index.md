@@ -29,7 +29,7 @@ body_id: presentations
       Mike Dodge from FaceBook tackles Advanced Chef
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/chef/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/chef/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -42,7 +42,7 @@ body_id: presentations
       Hydraulx dev Chris Johnson discusses Docker
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/docker/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/docker/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -55,7 +55,7 @@ body_id: presentations
       PSU's Gretchen Kuwahara discusses her journey with Ansible
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/ansible/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/ansible/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -84,7 +84,7 @@ body_id: presentations
       Linde Group's Elliot Jordan on How not to bad things with Autopkg
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/autopkg/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/autopkg/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -97,7 +97,7 @@ body_id: presentations
       Quick Talk: Elliot Jordan and the Autopkg Recipe Robot
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/robot/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/robot/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -110,7 +110,7 @@ body_id: presentations
       Learn all about Jenkins CI with Concordia University's Tim Sutton.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/jenkins/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/jenkins/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -123,7 +123,7 @@ body_id: presentations
       Learn Japanese from Allister and pick up osquery along the way.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/osquery/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/osquery/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -136,7 +136,7 @@ body_id: presentations
       Henry Stamerjohann takes us through Zentral's unique use of osquery and Santa.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2016/zentral/Default.html">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2016/zentral/Default.html">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -278,7 +278,7 @@ body_id: presentations
   <div class="responsive">
     <h4>Panel: Configuration Management</h4>
     <p>
-      Panel: Configuration Management - Puppet, Chef and more. Discuss! 
+      Panel: Configuration Management - Puppet, Chef and more. Discuss!
     </p>
     <p class="lead">
       <a href="http://matx.ca/mdoyvr/2016/day2/configmgmt/Default.html">Watch the Video</a>
@@ -310,7 +310,7 @@ body_id: presentations
       Organizer Mat X welcomes the inaugural MacDevOpsYVR attendees
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/intro/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/intro/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -323,7 +323,7 @@ body_id: presentations
       Quantum's Skip Levens shares some lessons on the importance of collaboration and the spirit of DevOps.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/skip/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/skip/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -336,7 +336,7 @@ body_id: presentations
       Brian Warsing and Riley Shott discuss the trials and tribulations of building an in-house Puppet-as-a-Service.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/mm/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/mm/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -349,7 +349,7 @@ body_id: presentations
       Wade Robson demonstrates his unique automation magic for wrangling Macs that ship with hardware-specific OS X builds.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/wade/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/wade/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -362,7 +362,7 @@ body_id: presentations
       Nick McSpadden proves to Mac Admins the benefits of Docker and how it can make managing multiple deployment services a snap.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/nick/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/nick/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -375,7 +375,7 @@ body_id: presentations
       Follow along with Tim Sutton as he runs down the vast list of ways Python is tailored for Mac Admins.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/tim/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/tim/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -388,7 +388,7 @@ body_id: presentations
       Bored with PyObjC? Let Michael Lynn show you how to go spelunking for fun and profit using Python CTypes.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/mikey/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/mikey/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -401,7 +401,7 @@ body_id: presentations
       You're not already using Munki? Greg Neagle is here to help you get rolling with his OS X package deployment system.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/greg/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/greg/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -414,7 +414,7 @@ body_id: presentations
       Now that you're a Munki expert, Sam Keeley is here to show you how to maintain your Munki repo and your sanity.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/sam/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/sam/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -427,7 +427,7 @@ body_id: presentations
       Everybody knows Google has all the Macs. Ed Eigerman and Clay Caviness are here to discuss how they keep them safe and up-to-date.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/google/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/google/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -440,7 +440,7 @@ body_id: presentations
       You use VMWare, but Joseph Chilcote is going to show you how to build VMs faster and better using vFuse.
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/joe/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/joe/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
@@ -453,7 +453,7 @@ body_id: presentations
       Who does all the cooking at Facebook? It's Mike Dodge and he wants you to become a Chef as well. Here's a taste...
     </p>
     <p class="lead">
-      <a href="http://macdevops.ca/MDO2015/fb/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
+      <a href="http://cdn.macdevops.ca/MDO2015/fb/NewStandardPlayer.html?plugin=HTML5">Watch the Video</a>
     </p>
   </div>
 </div>
