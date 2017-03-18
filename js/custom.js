@@ -8,6 +8,9 @@ $(function(){
   $("#sponsors   a:contains('Sponsors')").parent().addClass('active');
   $("#conduct   a:contains('Code of Conduct')").parent().addClass('active');
   $("#contacts   a:contains('Contacts')").parent().addClass('active');
+  $("#attendee   a:contains('Attendees')").parent().addClass('active');
+  $("#presentations   a:contains('Presentations')").parent().addClass('active');
+
 
 //   function initialize() {
 //     var mapCanvas = document.getElementById('map-canvas');

@@ -13,6 +13,3 @@ submissions_deadline: "March 31, 2015"
 
 # Build settings
 markdown: kramdown
-
-gems:
-  - jemoji
