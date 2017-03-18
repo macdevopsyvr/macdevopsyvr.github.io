@@ -3,4 +3,4 @@ rvm:
   - 2.1
 install: bundle install && gem install s3_website
 script: bundle exec jekyll build
-after_success: [ "$TRAVIS_EVENT_TYPE" = "push" ] && [ "$TRAVIS_BRANCH" = "master" ] && s3_website push
+after_success: '[ "$TRAVIS_EVENT_TYPE" = "push" ] && [ "$TRAVIS_BRANCH" = "master" ] && s3_website push'
