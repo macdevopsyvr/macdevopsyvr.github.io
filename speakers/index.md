@@ -7,6 +7,29 @@ body_id: speakers
 ## 2017 SPEAKERS ##
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/sarah-profile-3.jpg">
+  <div class="responsive">
+    <h4>Sarah Lewis</h4>
+    <p>
+      A brief overview of the state of security on the DarkWeb & OnionScan
+ Project.
+    </p>
+    <p class="lead">
+      Sarah Jamie Lewis is an independent security researcher currently
+living in Vancouver Canada. She has a passion for privacy & anonymity
+and runs Mascherari Press, an organization dedicated to conducting &
+promoting privacy research aimed at helping marginalized & at
+risk communities. She also maintains OnionScan, a large scale dark web
+scanning project, which currently analyzes over 10,000 dark web sites
+for various security issues. In the past Sarah worked as a Computer
+Scientist for the British Government and a Security Engineer at Amazon
+analyzing threat models and designing defenses to protect against fraud
+and security risks.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Mike_Lynn_frogor_headshot.png">
   <div class="responsive">
     <h4>Michael Lynn</h4>
