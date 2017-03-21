@@ -8,7 +8,7 @@ body_id: home
 
 MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. Learn about Open Source projects in the MacDevOps community and find out how to get involved.
 
-Join us for two days of sessions with continental breakfast, lunch, snacks and coffee included. 
+Join us for two days of sessions with continental breakfast, lunch, snacks and coffee included.
 
 ## REGISTRATION:
 
@@ -26,10 +26,10 @@ There are a limited amount of tickets for the early bird, and when these tickets
   <div class="responsive">
     <h4>Michael Lynn</h4>
     <p>
-      Mac-narök: The end times of our workflows are upon us. Be prepared. 
+      Mac-narök: The end times of our workflows are upon us. Be prepared.
     </p>
     <p class="lead">
-      Mike Lynn is a Client Platform Engineer at Dropbox in Seattle, Washington. He is obsessed with python and macOS
+      Mike Lynn is a Client Platform Engineer at Dropbox in Seattle, Washington. He is obsessed with python and macOS.
     </p>
   </div>
 </div>

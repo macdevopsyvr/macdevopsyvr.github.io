@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/waderobson/macdevopsyvr.github.io.svg?branch=master)](https://travis-ci.org/waderobson/macdevopsyvr.github.io)
 ### CONTRIBUTING
 
 #### Initial Setup
@@ -12,4 +13,3 @@
 * `cd` into the repo
 * exec: `rake run`
 * follow the instructions to access the site locally
-

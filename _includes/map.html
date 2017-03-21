@@ -4,4 +4,16 @@
 <p>MacDevOps:YVR is hosted at SFU Harbour Centre, the heart of Simon Fraser University's Vancouver Campus.</p>
 <p>Located on the scenic Vancouver Waterfront in downtown Vancouver, SFU Harbour Centre is minutes from historic Gastown and a staggering array of restaurants, shopping and many other amenities.</p>
 <div id="map-canvas">
+  <script>
+    var map;
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map-canvas'), {
+        center: {lat: 49.284756, lng: -123.111872},
+        zoom: 16,
+        mapTypeId: 'roadmap'
+      });
+    }
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqK5S_mIDCGJCnDB1Z-2hSLYh0DM99tT8&callback=initMap"
+  async defer></script>
 </div>
