@@ -6,4 +6,10 @@ body_id: sponsors
 
 # Sponsors
 
-A page where we thank our wonderful sponsors of previous events.
+Contact Mat X the conference organizer for sponsorshop opportunities. Contact info below.
+
+{% include contacts.html %}
+
+## Organizers:
+
+<strong>Conference Chair:</strong> Mat X
