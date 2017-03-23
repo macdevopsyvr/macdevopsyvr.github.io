@@ -40,7 +40,7 @@ body_id: speakers
       Building macOS as a Service for Mobile Development. 
     </p>
     <p class="lead">
-      Systems engineer to join Uber's mobile team. Excited about automating repetitive tasks and getting insightful data from macOS infrastructure..
+      Nick is a systems engineer on Uber's mobile team. He is excited about automating repetitive tasks and getting insightful data from macOS infrastructure.
     </p>
   </div>
 </div>
