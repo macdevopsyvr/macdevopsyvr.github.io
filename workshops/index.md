@@ -19,6 +19,6 @@ Please see the <a href="{{ site.url }}/attendee">Attendees</a> page for more inf
 Events start promptly at 8:30AM on both days.
 </p>
 
-<img src=/assets/MacDevOpsYVR2017-Sched.v1.1.png">
+<img src="/assets/MacDevOpsYVR2017-Sched.v1.1.png">
 
 <b>Note:</b> The list of sessions and workshops are subject to change. If there are changes we will post updates.
