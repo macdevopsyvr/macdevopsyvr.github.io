@@ -14,7 +14,7 @@ Events start promptly at 8:30AM on both days.
 There will also be a Zentral workshop on Sunday June 4th. Exact details to be announced soon.
 </p>
 
-<img src="/assets/MacDevOpsYVR2017-Sched.v1.1.png">
+<img src="/assets/MacDevOpsYVR2017-Sched.v1.2.png">
 <p>
 <b>Note:</b> The list of sessions and workshops are subject to change. If there are changes we will post updates.
 </p>
