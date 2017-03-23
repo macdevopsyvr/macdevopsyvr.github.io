@@ -50,7 +50,7 @@ body_id: speakers
   <div class="responsive">
     <h4>Graham Gilbert</h4>
     <p>
-      Better Than Bad It's Good: Decoding macOS Unified Logging. 
+      Something something commercial, something something open source. 
     </p>
     <p class="lead">
       Graham is the author of Sal, a multi-tenanted reporting tool for Munki, Crypt, a FileVault 2 key escrow solution and Imagr, an open source alternative to DeployStudio. In his day job, Graham is a Systems Engineer at Airbnb. He has a slight obsession with automating all of the things.
