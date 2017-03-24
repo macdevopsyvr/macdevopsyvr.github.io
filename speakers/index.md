@@ -9,7 +9,7 @@ body_id: speakers
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/greg_bayte.png">
   <div class="responsive">
-    <h4>Greg Bayte</h4>
+    <h4>Greg Batye</h4>
     <p>
       Building an Army of Client Admins. 
     </p>
