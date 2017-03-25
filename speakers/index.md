@@ -95,7 +95,7 @@ and security risks.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/neagle.jpg">
+  <img class="vid-thumb" src="/assets/Greg.png">
   <div class="responsive">
     <h4>Greg Neagle</h4>
     <p>
