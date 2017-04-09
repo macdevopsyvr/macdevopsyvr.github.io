@@ -46,7 +46,7 @@ body_id: speakers
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/GrahamGilbert2.jpg">
+  <img class="vid-thumb" src="/assets/GrahamGilbertSML.jpg">
   <div class="responsive">
     <h4>Graham Gilbert</h4>
     <p>
@@ -130,6 +130,19 @@ and security risks.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/rtrouton_headshotSML.jpg">
+  <div class="responsive">
+    <h4>Rich Trouton</h4>
+    <p>
+      Storing our digital lives: Mac filesystems from MFS to APFS.
+    </p>
+    <p class="lead">
+      Rich Trouton has supported Macs for 18 years in university, government, medical research and advertising. He currently works for SAP, on the Mac CoE team.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Victor_headshot.png">
   <div class="responsive">
     <h4>Victor Vrantchan</h4>
@@ -150,6 +163,18 @@ and security risks.
     </p>
     <p class="lead">
       Nate has been involved in the MacAdmin community and in various open source projects since 2010, including Munki, Puppet and Chef. Nate is part of the IT Core Automation Team at Facebook, along with Mike Dodge and Dan Sedlacek. </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/Wes_Whetstone300.jpg">
+  <div class="responsive">
+    <h4>Wes Whetstone</h4>
+    <p>
+     Repotoddy: Continuous Deployment for Apple Software Updates.
+    </p>
+    <p class="lead">
+      Wesley is a Mac Operations Engineer at Square, where automation and simplicity for fellow employees is a top priority. </p>
   </div>
 </div>
 
