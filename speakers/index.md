@@ -142,6 +142,20 @@ and security risks.
   </div>
 </div>
 
+
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/Henry_Stamerjohann.jpg">
+  <div class="responsive">
+    <h4>Henry Stamerjohann</h4>
+    <p>
+      What's new with Zentral: improving on the best way to collect, gather and process system events from osquery, Santa, Munki, JSS, Watchman and more.
+    </p>
+    <p class="lead">
+      Henry is a Systems Engineer, and Consultant, at Apfelwerk in Germany using commercial and open source tools for a broad range of Education and Business customers. 
+    </p>
+  </div>
+</div>
+
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Victor_headshot.png">
   <div class="responsive">
