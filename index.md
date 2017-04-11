@@ -6,9 +6,13 @@ body_id: home
 
 # June 5-6, 2017
 
-MacDevOps:YVR is the best place for Mac Admins interested in integrating DevOps in their IT practice. Learn about Open Source projects in the MacDevOps community and find out how to get involved.
+MacDevOpsYVR is the place for Mac Admins interested in integrating DevOps into their IT practice. Share knowledge with your peers and participate in Open Source projects with the MacDevOps community.
+ 
+Join us at MacDevOpsYVR 2017, our annual conference, for two days of learning and networking. With speakers from Google, Facebook, Airbnb, Dropbox and others, this year’s conference will be the biggest yet. And with over 20 educational sessions and 10 hours of networking opportunities MacDevOpsYVR 2017 is your best place to learn from your peers, and connect with fellow Mac Admins.
 
-Join us for two days of sessions with continental breakfast, lunch, snacks and coffee included.
+Continental breakfast, lunch, snacks and coffee included.
+ 
+Buy your tickets today!
 
 ## REGISTRATION:
 
