@@ -4,6 +4,11 @@ title: attendee
 body_id: attendee
 ---
 
+
+## Sunday social on June 4th, 2017
+
+Pre-conf meetup at The Tap and Barrel (Convention Centre) 
+
 ## Monday Hackathon on June 5th, 2017
 
 Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
@@ -12,13 +17,7 @@ Hackathon. Join a team. Watch the coding fun. Cheer your favourite projects with
 
 Refreshments provided.
 
-<img src="/assets/Hackathon-MacDevOpsYVR-June5-6-2017.png">
-
-## Sunday social on June 4th, 2017
-
-Pre-conf meetup at The Tap and Barrel (Convention Centre) 
-
-## What To See
+## What To See in and around Vancouver
 
 If you're in town for the first time, or you want a list of sight-seeing Go and Dos please contact the organizers for more info.
 
@@ -33,4 +32,4 @@ Here's a short list:
 
 <h3> The Marriott Hotel (aka Delta Vancouver Suites) </h3>
 <p>
-<a href="http://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/"> Book your hotel</a> for 4 nights and get a discounted rate of $219/CDN. Use the code EYK. Book June 3rd for four nights.</p>
+<b>Update:</b> Hotel discounted rooms at the Delta are no longer available. Please see try the <a href="http://www.ramadadowntownvancouver.com">Ramada Inn</a> which is the next closest hotel to the conference.</p>
