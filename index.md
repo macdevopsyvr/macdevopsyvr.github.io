@@ -16,9 +16,9 @@ Buy your tickets today!
 
 ## REGISTRATION:
 
-Get your <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">early bird tickets</a>: $265 CDN (+ fees + tax).
+Get your <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">tickets</a>: $465 CDN (+ fees + tax).
 
-There are a limited amount of tickets for the early bird, and when these tickets sell out the regular price will be $465.
+The early bird tickets are SOLD OUT.
 
 
 
