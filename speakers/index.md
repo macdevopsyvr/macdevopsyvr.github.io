@@ -59,6 +59,18 @@ body_id: speakers
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/macjustice.jpg">
+  <div class="responsive">
+    <h4>Mac Justice</h4>
+    <p>
+      Intro to GitLab: DevOps tools on a shell script budget. 
+    </p>
+    <p class="lead">
+      Mac does all kinds of IT things at Synapse in Seattle, supporting a bunch of super talented hardware engineers. He likes spending time with his wife and daughter, reading history, and baking bread. Prefers tea in the AM and beer in the PM.</p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/sarah-profile-3.jpg">
   <div class="responsive">
     <h4>Sarah Lewis</h4>
