@@ -6,7 +6,7 @@ body_id: activities
 
 # Activities
 
-Hackathon. Join a team. Watch the coding fun. Cheer your favourite projects with every line of code.
+Workshop. Social. Hackathon. 
 
 ## Hackathon. Monday June 5th, 2017
 
@@ -15,12 +15,15 @@ Bring your laptop. Hackathon. Monday afternoon right after the sessions and into
 Refreshments provided.
 
 <img src="/assets/Hackathon-MacDevOpsYVR-June5-6-2017.png">
+<h3>Zentral workshop on Sunday June 4th, 2017</h3>
+
+At SFU Harbour Centre. 3pm. Tickets on <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Evenbrite.</a> 
 <h3>Pre-conf meetup on Sunday June 4th, 2017</h3>
 
 
 <p><b>MacDevOps:YVR 2017</b> we are meeting up before the conference on Sunday June 4th at 5pm at the Tap and Barrel (Convention Centre). </p>
 
-Space is very limited. There will be a link to the free tickets soon to RSVP. Stay tuned.
+Space is very limited. Tickets on <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Evenbrite.</a> 
 
 
 <p>Tap and Barrel: 1055 Canada Place, Vancouver, BC, V6C 0C3</p>
