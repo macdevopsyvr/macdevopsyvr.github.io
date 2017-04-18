@@ -4,10 +4,13 @@ title: attendee
 body_id: attendee
 ---
 
+## Sunday Zentral workshop June 4th, 2017
+
+Workshop with Henry from Apfelwerk. All about Zentral. 3pm @ SFU Harbour Centre. 
 
 ## Sunday social on June 4th, 2017
 
-Pre-conf meetup at The Tap and Barrel (Convention Centre) 
+Pre-conf meetup at The Tap and Barrel (Convention Centre)  at 5pm
 
 ## Monday Hackathon on June 5th, 2017
 
@@ -32,4 +35,4 @@ Here's a short list:
 
 <h3> The Marriott Hotel (aka Delta Vancouver Suites) </h3>
 <p>
-<b>Update:</b> Hotel discounted rooms at the Delta are no longer available. Please see try the <a href="http://www.ramadadowntownvancouver.com">Ramada Inn</a> which is the next closest hotel to the conference.</p>
+<b>Update:</b> Hotel discounted rooms at the Delta are no longer available. Please try the <a href="http://www.ramadadowntownvancouver.com">Ramada Inn</a> which is the next closest hotel to the conference.</p>
