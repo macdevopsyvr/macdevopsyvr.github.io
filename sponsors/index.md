@@ -10,7 +10,7 @@ body_id: sponsors
 Available for sponsorship.
 
 # Day 2 sponsor 
-<a href="https://veertu.com"><img src="/assets/Veertu-logo.jpg">Veertu</a>
+<a href="https://veertu.com"><img src="/assets/Veertu-logo300.jpg">Veertu</a>
 
 Contact Mat X the conference organizer for sponsorshop opportunities. Contact info below.
 
