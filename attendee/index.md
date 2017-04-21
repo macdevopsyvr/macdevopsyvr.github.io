@@ -4,14 +4,6 @@ title: attendee
 body_id: attendee
 ---
 
-## Sunday Zentral workshop June 4th, 2017
-
-Workshop with Henry from Apfelwerk. All about Zentral. 3pm @ SFU Harbour Centre. 
-
-## Sunday social on June 4th, 2017
-
-Pre-conf meetup at The Tap and Barrel (Convention Centre)  at 5pm
-
 ## Monday Hackathon on June 5th, 2017
 
 Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
