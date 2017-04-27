@@ -11,7 +11,7 @@ Events start promptly at 8:30AM on both days.
 </p>
 
 <p>
-There will also be a Zentral workshop on Sunday June 4th. Exact details to be announced soon.
+There will also be a Zentral workshop on Sunday June 4th at 3pm at SFU Harbour Centre. Tickets available on evenbrite <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">tickets</a> page.
 </p>
 
 <img src="/assets/MacDevOpsYVR2017-Sched.v1.2-day1.png">
