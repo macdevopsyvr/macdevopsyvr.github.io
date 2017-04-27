@@ -14,10 +14,10 @@ At SFU Harbour Centre. 3pm. Tickets on <a href="https://www.eventbrite.com/e/mac
 
 <h3>Pre-conf meetup on Sunday June 4th, 2017</h3>
 
+<p><b>MacDevOps:YVR 2017</b> we are meeting up before the conference on Sunday June 4th at 5pm at Steamworks Brewing. </p>
 
-<p><b>MacDevOps:YVR 2017</b> we are meeting up before the conference on Sunday June 4th at 5pm at the Tap and Barrel (Convention Centre). </p>
+<b>UPDATE:</b> Location changed to Steamworks Brewing in the Harbour View room. Additional tickets on <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Evenbrite.</a> 
 
-SOLD OUT. Tickets on <a href="https://www.eventbrite.com/e/macdevopsyvr-2017-tickets-31630087443">Evenbrite.</a> 
 
 ## Hackathon. Monday June 5th, 2017
 
