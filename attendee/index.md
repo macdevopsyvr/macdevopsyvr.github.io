@@ -4,11 +4,9 @@ title: attendee
 body_id: attendee
 ---
 
-## Monday Hackathon on June 5th, 2017
+## What to bring
 
-Bring your laptop. Hackathon. Monday afternoon right after the sessions and into evening. Team Frogor and Team MacTroll will present on Swift and Python respectively. Other teams TBA.
-
-Hackathon. Join a team. Watch the coding fun. Cheer your favourite projects with every line of code.
+Bring your laptop or your Raspberry Pi for the Hackathon on Monday afternoon right after the sessions and into evening. 
 
 Refreshments provided.
 
