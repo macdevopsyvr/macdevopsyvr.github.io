@@ -23,6 +23,6 @@ Here's a short list:
 - Lynn Canyon in North Van for several nice hiking trails
 - Queen Elizabeth park. Great view of the city. Near King Edward Skytrain station.
 
-<h3> The Marriott Hotel (aka Delta Vancouver Suites) </h3>
+<h3> Where to stay </h3>
 <p>
-<b>Update:</b> Hotel discounted rooms at the Delta are no longer available. Please try the <a href="http://www.ramadadowntownvancouver.com">Ramada Inn</a> which is the next closest hotel to the conference.</p>
+<b>Update:</b> Hotel discounted rooms at the Marriott / Delta are no longer available. 
