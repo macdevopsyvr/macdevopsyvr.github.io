@@ -5,15 +5,15 @@ body_id: sponsors
 ---
 
 # Sponsors
-## Day 1 sponsor
+## Day 1:
 
 Available for sponsorship.
 
-## Day 2 sponsor 
+## Day 2:
 <p><a href="https://veertu.com"><img src="/assets/Veertu-logo300.jpg"></a></p>
 <p>Veertu (https://veertu.com/)</p>
 
-## Supporting sponsors
+## Supporting:
 <p><a href="https://simplemdm.com"><img src="/assets/SimpleMDM-sml.png"></a></p>
 <p>SimpleMDM (https://simplemdm.com)</p>
 
