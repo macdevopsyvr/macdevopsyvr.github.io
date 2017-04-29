@@ -118,6 +118,17 @@ and security risks.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/Marczak300.jpg">
+  <div class="responsive">
+    <h4>Ed Marczak</h4>
+    <p>
+      How to fail. Mistakes happen. Disaster strikes. Sooner or later, you or your team and organization will fail.  </p>
+    <p class="lead">
+      Ed is the well known editor at MacTech magazine, co-organizer for the MacTech conference and Worldwide Mac Operations Dude at Google.</p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Jesse_Peterson.jpg">
   <div class="responsive">
     <h4>Jesse Peterson</h4>
