@@ -16,11 +16,8 @@ body_id: sponsors
 ## Supporting:
 <p><a href="https://simplemdm.com"><img src="/assets/SimpleMDM-sml.png"></a></p>
 <p>SimpleMDM (simplemdm.com)</p>
-
+<hr>
 Contact Mat X the conference organizer for sponsorshop opportunities. Contact info below.
 
 {% include contacts.html %}
 
-## Organizers:
-
-<strong>Conference Chair:</strong> Mat X
