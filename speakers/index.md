@@ -84,6 +84,18 @@ body_id: speakers
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/keeley.jpg">
+  <div class="responsive">
+    <h4>Sam Keeley</h4>
+    <p>
+      osquery + streamalert. 
+    </p>
+    <p class="lead">
+      Sam is Sam. What can I say? </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/sarah-profile-3.jpg">
   <div class="responsive">
     <h4>Sarah Lewis</h4>
