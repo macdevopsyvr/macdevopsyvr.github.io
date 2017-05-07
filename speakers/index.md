@@ -20,6 +20,19 @@ body_id: speakers
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/bruienne.png">
+  <div class="responsive">
+    <h4>Pepijn Bruienne</h4>
+    <p>
+      Securing the Dev environment. 
+    </p>
+    <p class="lead">
+      Macs, Enterprise, good times @ Duo Security
+      </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/chilcote2.jpg">
   <div class="responsive">
     <h4>Joseph Chilcote</h4>
