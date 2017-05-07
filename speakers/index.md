@@ -178,6 +178,18 @@ and security risks.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/robson.jpg">
+  <div class="responsive">
+    <h4>Wade Robson</h4>
+    <p>
+      Quick Talk: Zappa and the elastic beanstalk</p>
+    <p class="lead">
+      Wade Robson is a DevOps practitioner at Urthecast.
+    </p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/rtrouton_headshotSML.jpg">
   <div class="responsive">
     <h4>Rich Trouton</h4>
