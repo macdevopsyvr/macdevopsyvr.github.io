@@ -143,6 +143,17 @@ and security risks.
 </div>
 
 <div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/melody_ma.jpg">
+  <div class="responsive">
+    <h4>Melody Ma</h4>
+    <p>
+      Codecreate and the Hour of code</p>
+    <p class="lead">
+      Tech geek. Art lover. Impact junkie. Web Dev & Product Mrktr by day. @imaginexbc, #SaveChinatownYVR, @CodecreateBC by night.</p>
+  </div>
+</div>
+
+<div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Marczak300.jpg">
   <div class="responsive">
     <h4>Ed Marczak</h4>
