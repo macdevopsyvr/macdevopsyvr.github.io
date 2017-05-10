@@ -163,7 +163,16 @@ and security risks.
       Ed is the well known editor at MacTech magazine, co-organizer for the MacTech conference and Worldwide Mac Operations Dude at Google.</p>
   </div>
 </div>
-
+<div class="col-xs-12 pull-left thumbnail">
+  <img class="vid-thumb" src="/assets/derick.jpg">
+  <div class="responsive">
+    <h4>Derick Okihara</h4>
+    <p>
+      Free as in beer? Weighing solutions on a budget. (p.s. no free beer in this session) </p>
+    <p class="lead">
+      Derick Okihara is the Apple technician for Mid-Pacific Institute, a private PK-12 institution, focusing on server administration, system deployment, and Apple technology.</p>
+  </div>
+</div>
 <div class="col-xs-12 pull-left thumbnail">
   <img class="vid-thumb" src="/assets/Jesse_Peterson.jpg">
   <div class="responsive">
