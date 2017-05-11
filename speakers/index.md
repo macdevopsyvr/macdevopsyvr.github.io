@@ -164,7 +164,7 @@ and security risks.
   </div>
 </div>
 <div class="col-xs-12 pull-left thumbnail">
-  <img class="vid-thumb" src="/assets/derick.jpg">
+  <img class="vid-thumb" src="/assets/derick1.jpg">
   <div class="responsive">
     <h4>Derick Okihara</h4>
     <p>
