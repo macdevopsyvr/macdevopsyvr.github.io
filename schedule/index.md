@@ -1,7 +1,7 @@
 ---
 layout: default
-title: workshops
-body_id: workshops
+title: schedule
+body_id: schedule
 ---
 
 # Day 1 and Day 2 Schedule
