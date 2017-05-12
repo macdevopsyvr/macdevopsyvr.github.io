@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/waderobson/macdevopsyvr.github.io.svg?branch=master)](https://travis-ci.org/waderobson/macdevopsyvr.github.io)
+[![Build Status](https://travis-ci.org/macdevopsyvr/macdevopsyvr.github.io.svg?branch=master)](https://travis-ci.org/waderobson/macdevopsyvr.github.io)
 ### CONTRIBUTING
 
 #### Initial Setup
