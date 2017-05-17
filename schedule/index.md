@@ -54,8 +54,10 @@ There will also be a Zentral workshop on Sunday June 4th at 3pm at SFU Harbour C
  <tr><td>&nbsp;</td><td>16:45 - 16:50</td><td>Mat X - Closing Remarks Day #1,</td><td>16:35 - 16:50</td><td>Panel: MacDevOps / WWDC wrap up</td></tr>
 </tbody></table>
 
+Download this schedule as a <a href="/assets/2017-MacDevOpsYVR-Schedule-2-days-30min-v2.pdf">PDF</a>
+<hr>
 <b>Note:</b> The list of sessions and workshops are subject to change. If there are changes we will post updates.
-</p>
+
 <p>
 Please see the <a href="{{ site.url }}/attendee">Attendees</a> page for more info on workshop requirements.
 </p>
