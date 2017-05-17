@@ -41,7 +41,7 @@ There will also be a Zentral workshop on Sunday June 4th at 3pm at SFU Harbour C
  <tr><td>&nbsp;</td><td>10:00-10:30</td><td> Keynote 2 - Joel Rennich (TruSource Labs) - Privilege Safety Dance - Leverage NoMAD to provide admin privileges </td><td>10:00-10:30</td><td>Bruienne (Duo Security) - Securing dev environments</td></tr>
  <tr><td>BREAK 30min</td><td>10:30 - 11:00</td><td>Break</td><td>10:30 - 11:00</td><td>Break</td></tr>
  <tr><td>&nbsp;</td><td>11:05- 11:35</td><td>Jesse Peterson + Victor Vrantchan - FOSS MDM</td><td>11:05- 11:35</td><td>Nicholas Cobb (Uber) - Large scale VMs</td></tr>
- <tr><td>&nbsp;</td><td>11:40-11:50</td><td>Quick Talk: Derik Okihara - PM </td><td>11:40-11:50</td><td>Quick Talk - Wade Robson (Urthecast) - Zappa and the elastic beanstalk</td></tr>
+ <tr><td>&nbsp;</td><td>11:40-11:50</td><td>Quick Talk: Derick Okihara - PM </td><td>11:40-11:50</td><td>Quick Talk - Wade Robson (Urthecast) - Zappa and the elastic beanstalk</td></tr>
  <tr><td>&nbsp;</td><td>11:55 - 12:25</td><td>Graham Gilbert (Airbnb) -  Something something commercial, something something open source.</td><td>11:55 - 12:25</td><td>Greg Neagle (Disney) - Munki 3.0 - Ch- Ch- Changes</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Lunch 60min</td><td>12:30 - 13:30</td><td>Lunch</td><td>12:30 - 13:30</td><td>Lunch</td></tr>
