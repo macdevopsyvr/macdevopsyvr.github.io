@@ -18,6 +18,8 @@ body_id: sponsors
 <p>SimpleMDM (simplemdm.com)</p>
 <p><a href="https://www.watchmanmonitoring.com" target="_blank"><img src="/assets/Watchman-Monitoring-logo-blue300.png"></a></p>
 <p>Watchman Monitoring (watchmanmonitoring.com)</p>
+<p><a href="http://www.archiware.com" target="_blank"><img src="/assets/archiware_logo.jpg"></a></p>
+<p>Archiware (archiware.com)</p>
 <hr>
 Contact Mat X the conference organizer for sponsorshop opportunities. Contact info below.
 
