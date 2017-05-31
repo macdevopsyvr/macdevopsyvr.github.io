@@ -5,8 +5,10 @@ body_id: sponsors
 ---
 
 # Sponsors
+
+## Our sincere thanks to Dropbox and all of our 2017 sponsors
 <p><a href="https://www.dropbox.com/about" target="_blank"><img src="/assets/dropbox_blue500.png"></a></p>
-<p>Dropbox (dropbox.com/)</p>
+<p>Dropbox (dropbox.com)</p>
 
 ## Day 1:
 <p><a href="https://www.macstadium.com" target="_blank"><img src="/assets/MacStadium_Logo.png"></a></p>
@@ -14,7 +16,7 @@ body_id: sponsors
 
 ## Day 2:
 <p><a href="https://veertu.com" target="_blank"><img src="/assets/Veertu-logo300.jpg"></a></p>
-<p>Veertu (veertu.com/)</p>
+<p>Veertu (veertu.com)</p>
 
 ## Supporting:
 <p><a href="https://simplemdm.com" target="_blank"><img src="/assets/SimpleMDM-sml.png"></a></p>
