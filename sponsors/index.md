@@ -5,6 +5,9 @@ body_id: sponsors
 ---
 
 # Sponsors
+<p><a href="https://www.dropbox.com/about" target="_blank"><img src="/assets/dropbox_blue500.png"></a></p>
+<p>Dropbox (dropbox.com/)</p>
+
 ## Day 1:
 <p><a href="https://www.macstadium.com" target="_blank"><img src="/assets/MacStadium_Logo.png"></a></p>
 <p>MacStadium (macstadium.com)</p>
