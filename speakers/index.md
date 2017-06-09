@@ -40,7 +40,7 @@ body_id: speakers
       Better Than Bad It's Good: Decoding macOS Unified Logging. 
     </p>
     <p class="lead">
-      Joe manages Macs at Splunk, and spends his free time trying to figure out how Console.app is supposed to work.
+      Joe manages Macs, and spends his free time trying to figure out how Console.app is supposed to work.
     </p>
   </div>
 </div>
