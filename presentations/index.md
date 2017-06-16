@@ -4,7 +4,11 @@ title: presentations
 body_id: presentations
 ---
 
-# MacDevOps:YVR 2015-2016 Presentations
+# MacDevOps:YVR 2015-2017 Presentations
+
+<h2>2017 event:</h2>
+
+This year we have uploaded all videos to youtube. They are viewable [here](https://www.youtube.com/playlist?list=PLOpBG-mD9ZjHdx6_yF4y8IR6eGDWgkJr9).
 
 <h2>2016 event, Day 1:</h2>
 
