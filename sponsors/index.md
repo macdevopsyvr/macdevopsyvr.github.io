@@ -4,7 +4,7 @@ title: sponsors
 body_id: sponsors
 ---
 
-# Sponsors
+# 2017 Sponsors
 
 ## Our sincere thanks to Dropbox and all of our 2017 sponsors
 <p><a href="https://www.dropbox.com/about" target="_blank"><img src="/assets/dropbox_blue500.png"></a></p>

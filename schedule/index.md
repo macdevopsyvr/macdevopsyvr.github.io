@@ -4,7 +4,7 @@ title: schedule
 body_id: schedule
 ---
 
-# Day 1 and Day 2 Schedule
+# 2017 Day 1 and Day 2 Schedule
 
 <p class="lead">
 Events start promptly at 8:30AM on both days.

@@ -4,7 +4,7 @@ title: activities
 body_id: activities
 ---
 
-# Activities
+# 2017 Activities
 
 Workshop. Social. Hackathon. 
 
