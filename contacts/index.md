@@ -12,10 +12,10 @@ body_id: contacts
 
 <strong>Conference Chair:</strong> Mat X
 
-<strong>Website:</strong> Terence Narain
+<strong>Website:</strong> Anon
 
 <strong>Marketing Ninja:</strong> Ted Sherman
 
-<strong>Brain Trust:</strong> Tian Zhang, Wade Robson, Andrew Ball, David Kaneva, Kendrick Lawless, Sean Mauser, Riley Shott, and Brian Warsing.
+<strong>Brain Trust:</strong> Wade Robson, Andrew Ball, David Kaneva, Kendrick Lawless, Sean Mauser, Riley Shott, and Brian Warsing.
 
 <strong>Life coach:</strong> Chris Johnson
