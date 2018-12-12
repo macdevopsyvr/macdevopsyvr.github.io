@@ -8,9 +8,9 @@ body_id: home
 
 The new MacDevOps:YVR website is <a href="https://mdoyvr.com">mdoyvr.com</a>
 
-## 2018:
+## 2019:
 
-Dates for the 2018 conference are June 7-8. More info on the new <a href="https://mdoyvr.com">website.</a>.
+Dates for the next conference are June 12-14, 2019. More info on the new <a href="https://mdoyvr.com">website.</a>.
 
 
 
